@@ -1,0 +1,421 @@
+canonical_identifier: bkk:krp/KR2a0017/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2a0017/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南齊書五十九卷
+  identifiers:
+    krp: KR2a0017
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR2a
+    tls-internal:
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0017.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 2, filename: KR2a0017_002-CHANT.yaml, hash: 'sha256:6eac213a25c92ac51e1ac1c0e0148e5e1d8686fd48758aab6918190b721440bc'}
+  - {seq: 3, filename: KR2a0017_003-CHANT.yaml, hash: 'sha256:b79bc6a36f8dfddc8403cc5e20f48c7f2d27705bf9719bb2fd036d99f3c92324'}
+  - {seq: 4, filename: KR2a0017_004-CHANT.yaml, hash: 'sha256:2b050c5449467ee44a73a8e89e067b748cc345a0c5232fd5cd3d51d37e8127b3'}
+  - {seq: 5, filename: KR2a0017_005-CHANT.yaml, hash: 'sha256:2e190e0c4a99d116e038bc5db998c254fc03a0435fb597b8f34fb53701268fa6'}
+  - {seq: 6, filename: KR2a0017_006-CHANT.yaml, hash: 'sha256:48e624f3a78606fcba9e6544d84f27199ecde3b3e08112a8cd422095c727fddb'}
+  - {seq: 7, filename: KR2a0017_007-CHANT.yaml, hash: 'sha256:d967d766eac321ec0f943666e22bdb808f5ecdd8362dfbd9b9423ebdabc2b149'}
+  - {seq: 8, filename: KR2a0017_008-CHANT.yaml, hash: 'sha256:cc65338189b60f42e122906d00c0974f21862155fcc0d0a578cd407198f79447'}
+  - {seq: 10, filename: KR2a0017_010-CHANT.yaml, hash: 'sha256:83ee37199b548b72b1d7accccd3c06191f84221c66664d41b79e240cf2f2f9ee'}
+  - {seq: 12, filename: KR2a0017_012-CHANT.yaml, hash: 'sha256:6cb18e08006ef7805248c732e2a646590221d5e8a6c7181d0aada51ac4cd498f'}
+  - {seq: 13, filename: KR2a0017_013-CHANT.yaml, hash: 'sha256:75fc6751b9cb3cc8fecf58735ab66dea371cbd86b4af69a432f8373de5764440'}
+  - {seq: 17, filename: KR2a0017_017-CHANT.yaml, hash: 'sha256:cdc80f4cf3c0dc79262cce5cd86359327b001420017a90689f195bebc523a2f6'}
+  - {seq: 18, filename: KR2a0017_018-CHANT.yaml, hash: 'sha256:559f161161c19459e67ea3c4eae8cf3a0af0fb829326b6cbde2d969b8680cc45'}
+  - {seq: 19, filename: KR2a0017_019-CHANT.yaml, hash: 'sha256:4c545dd49b036b3e82a271fc58ffd0617ecebf7edb89f1888db5d530d348f7a4'}
+  - {seq: 20, filename: KR2a0017_020-CHANT.yaml, hash: 'sha256:af81bd9b70fdfdaffa2d3831c380f1b5ff0338dc030c16a2d4d9d5509dcdbc20'}
+  - {seq: 21, filename: KR2a0017_021-CHANT.yaml, hash: 'sha256:2716d32b12ef94b32d844e581017b3667becb5556becfbc90ea6ba8c91e3b102'}
+  - {seq: 22, filename: KR2a0017_022-CHANT.yaml, hash: 'sha256:71f7179ebc4ceae70a3cc3234b41280e4b7279195766957ba134b3edc375159b'}
+  - {seq: 23, filename: KR2a0017_023-CHANT.yaml, hash: 'sha256:771eae4460fe9f4251fe2cff18c793afb990755d4eb78abb2c289083027bc56e'}
+  - {seq: 27, filename: KR2a0017_027-CHANT.yaml, hash: 'sha256:3272d12901228bdce9de6adad9ef3bad96f6cc40d3662b9a72fd50d6f295b633'}
+  - {seq: 28, filename: KR2a0017_028-CHANT.yaml, hash: 'sha256:c63508c4d4110b780b1dd6461af57de90c119ff78fd7181fed1c0f9984afce54'}
+  - {seq: 29, filename: KR2a0017_029-CHANT.yaml, hash: 'sha256:6e434e5badad12841042aa6d776473019ed34f44d2e2a9aa8f19b2c2980dc327'}
+  - {seq: 30, filename: KR2a0017_030-CHANT.yaml, hash: 'sha256:f2f3b8ed485456e370e2351cec7ec82b404c8341a103ecc72e1b5a88e39ab07a'}
+  - {seq: 31, filename: KR2a0017_031-CHANT.yaml, hash: 'sha256:1106de598389d02e4711043256ac32f60a42267026e7a82224b454ada4aeb269'}
+  - {seq: 32, filename: KR2a0017_032-CHANT.yaml, hash: 'sha256:84edeadb6bab46ff99f83040183b98407a67693ea7425fbb15fc3f0736967212'}
+  - {seq: 34, filename: KR2a0017_034-CHANT.yaml, hash: 'sha256:7cf88df4bd0cbf0a45a84043d094f42e976e9a9039a62a558cd7853358241975'}
+  - {seq: 35, filename: KR2a0017_035-CHANT.yaml, hash: 'sha256:f0a17f2933fb2a94090d5b08d9fa3008b32b5769a0e22b2c75b6f18b2b29f68d'}
+  - {seq: 37, filename: KR2a0017_037-CHANT.yaml, hash: 'sha256:522d626cbb71997b282197dc42f9fa3df3b13f2cd2892326a2f3a8963aa185f1'}
+  - {seq: 42, filename: KR2a0017_042-CHANT.yaml, hash: 'sha256:eab2d76f1d9157bab79f3d94dfd7e3d9b160f569aeb6d7f1274ca589fbad3ac1'}
+  - {seq: 50, filename: KR2a0017_050-CHANT.yaml, hash: 'sha256:e59b32edf47b921819dbdce2ce5330e42346affad5ac6be5d8d4ac0e3af5db5e'}
+  - {seq: 53, filename: KR2a0017_053-CHANT.yaml, hash: 'sha256:4767612ddfe06f264767d02809b2a9873cdb80d538593e35d1b1c668c2c753dd'}
+  - {seq: 55, filename: KR2a0017_055-CHANT.yaml, hash: 'sha256:85520e70af11e12f7bba75bed78ed8825a721a5fc69dc25c5bb89f952b95382f'}
+  - {seq: 56, filename: KR2a0017_056-CHANT.yaml, hash: 'sha256:c88da0071eaa756a88ae644752ecc39216a26d503cc4489a509439e0b7cb4a8e'}
+  - {seq: 57, filename: KR2a0017_057-CHANT.yaml, hash: 'sha256:11b344bd8917544ff36246d8bcaddc9b803be07b27ce88513fc8ae0ac4cdf7f2'}
+  - {seq: 58, filename: KR2a0017_058-CHANT.yaml, hash: 'sha256:46b95a7c12d7976c4a07389bcb7f68bf9b892d3214debf898e2afd331e85a059'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR2a0017_002-CHANT.markers.yaml, hash: 'sha256:5f86b29f92515fb549800ba62c6587291e80c7a34bff1a119db4e794203c4c1c'}
+  - {seq: 3, role: markers, filename: assets/KR2a0017_003-CHANT.markers.yaml, hash: 'sha256:b6e0b242ae900648a0871dbbf12b06c50476ee09fb97685a1408d82db3c83c5a'}
+  - {seq: 4, role: markers, filename: assets/KR2a0017_004-CHANT.markers.yaml, hash: 'sha256:c773c9c0cb24ce092972c215b3facd3c2cfbe380c04ec8ab2165ed917c545935'}
+  - {seq: 5, role: markers, filename: assets/KR2a0017_005-CHANT.markers.yaml, hash: 'sha256:a42708a65edce18657718d3ba4355043fd9dbd9e28366dd46b6a309ec08f9737'}
+  - {seq: 6, role: markers, filename: assets/KR2a0017_006-CHANT.markers.yaml, hash: 'sha256:80a45dd70494c9f67546c3df37bbcfa4cb7324bf72c0d3aaaab95d5d64bb6128'}
+  - {seq: 7, role: markers, filename: assets/KR2a0017_007-CHANT.markers.yaml, hash: 'sha256:8fdc3a4802b65c6730b656761d4af525d447d07207266967012b66f19273b998'}
+  - {seq: 8, role: markers, filename: assets/KR2a0017_008-CHANT.markers.yaml, hash: 'sha256:b2c0c76385d13005600d5b162bf0726cb9f148b094422ffa3397204708f0005a'}
+  - {seq: 10, role: markers, filename: assets/KR2a0017_010-CHANT.markers.yaml, hash: 'sha256:b329c92fd102c540efa43ad952a85c23447adf52acfa2e7e858da700de5d1a38'}
+  - {seq: 12, role: markers, filename: assets/KR2a0017_012-CHANT.markers.yaml, hash: 'sha256:171c66fe90e5a3fb8e1fd8da6c877fa3bfd000d16fa8789932dd9999af6cb96d'}
+  - {seq: 13, role: markers, filename: assets/KR2a0017_013-CHANT.markers.yaml, hash: 'sha256:62ba2d645522013cee2cbe0a976261a2252033b663b847c0709344202683f801'}
+  - {seq: 17, role: markers, filename: assets/KR2a0017_017-CHANT.markers.yaml, hash: 'sha256:6609b50793cc4c45481a28420be95dcbab0efad6658b91334f7fceb595cb861e'}
+  - {seq: 18, role: markers, filename: assets/KR2a0017_018-CHANT.markers.yaml, hash: 'sha256:2a9469aad5b2f059564dbfd4795743b5a96e389526246190b3f1b4f9a2987235'}
+  - {seq: 19, role: markers, filename: assets/KR2a0017_019-CHANT.markers.yaml, hash: 'sha256:6f8f29c150ed8c03d24e3e433c94adafe0982812c6e07b855f4f9b0c770eae2b'}
+  - {seq: 20, role: markers, filename: assets/KR2a0017_020-CHANT.markers.yaml, hash: 'sha256:f6c664d356a4665a0764b6b75ed1940db2851ca2acadeff2a6234320e6f5c33f'}
+  - {seq: 21, role: markers, filename: assets/KR2a0017_021-CHANT.markers.yaml, hash: 'sha256:3b2f3852306ba2e05bf3884ae30b64dc296268418bb9c2a1a62742a58f183218'}
+  - {seq: 22, role: markers, filename: assets/KR2a0017_022-CHANT.markers.yaml, hash: 'sha256:84f34b687781e90e2a6a851ed0c68bdc60daae9f8eb25c38a969de79b84030b7'}
+  - {seq: 23, role: markers, filename: assets/KR2a0017_023-CHANT.markers.yaml, hash: 'sha256:e27cc00bc7d97c748010d408532904a37dbfe83866e72f229f956f19c6a7abb8'}
+  - {seq: 27, role: markers, filename: assets/KR2a0017_027-CHANT.markers.yaml, hash: 'sha256:d5d2fd85afd8e37307396395714be69984b700d07f7e5f88605109c9d670b07b'}
+  - {seq: 28, role: markers, filename: assets/KR2a0017_028-CHANT.markers.yaml, hash: 'sha256:4ad85c07dfb51a58a98e2752221d3a8ad823f73820f98102dbfd4046cb72b64e'}
+  - {seq: 29, role: markers, filename: assets/KR2a0017_029-CHANT.markers.yaml, hash: 'sha256:837af4c324f06c2773b7c13fd2c9f5d50e4b17f6425af5193bfab333114df7d7'}
+  - {seq: 30, role: markers, filename: assets/KR2a0017_030-CHANT.markers.yaml, hash: 'sha256:c5e16d189d4300a9ee81a0ff912e82d532a4194b40610a6fe07db492970bc516'}
+  - {seq: 31, role: markers, filename: assets/KR2a0017_031-CHANT.markers.yaml, hash: 'sha256:6829740db72c9826275c83a46bc38ed0919f7edfe9f88ab89d88febd5df5a5f7'}
+  - {seq: 32, role: markers, filename: assets/KR2a0017_032-CHANT.markers.yaml, hash: 'sha256:d0c6521e5775cd6a07dfbc25bf99b869a951a533b8e0a6e6ef3b6de5b314503e'}
+  - {seq: 34, role: markers, filename: assets/KR2a0017_034-CHANT.markers.yaml, hash: 'sha256:a613646a7cbf2bf4e920578c6367d265586a8691dc2f7fb9c68e7abd9623b499'}
+  - {seq: 35, role: markers, filename: assets/KR2a0017_035-CHANT.markers.yaml, hash: 'sha256:6f8c01e889f35a7b1aa36c766d69c9448a9d4377e3ce5468ef88abc687b3b636'}
+  - {seq: 37, role: markers, filename: assets/KR2a0017_037-CHANT.markers.yaml, hash: 'sha256:53f94d201d905a5d455e28e47190fce33c48e61c40881481ae85cbe454d01c58'}
+  - {seq: 42, role: markers, filename: assets/KR2a0017_042-CHANT.markers.yaml, hash: 'sha256:ec81d6c3166e9d6278e658fe68ff94903050e07990390d7e4cb19f25463f0dd6'}
+  - {seq: 50, role: markers, filename: assets/KR2a0017_050-CHANT.markers.yaml, hash: 'sha256:51c71739c061834cf63add4b7c3a972d3fbacaa71a53c3e4d9051b709753b117'}
+  - {seq: 53, role: markers, filename: assets/KR2a0017_053-CHANT.markers.yaml, hash: 'sha256:2ff124130030ce1e118f85aad21cec0ea1b3597e6d22cb0adb7fc535bf15cd5c'}
+  - {seq: 55, role: markers, filename: assets/KR2a0017_055-CHANT.markers.yaml, hash: 'sha256:4cdb88679a48b96f40bf5ee0a4abc3fd0a9dac7d9eacb07daf840c0d17fe1cf1'}
+  - {seq: 56, role: markers, filename: assets/KR2a0017_056-CHANT.markers.yaml, hash: 'sha256:e7be58abf0f7561db7f1d24bbde4278518fd787c157c47fdfa0e6bda223cc2b8'}
+  - {seq: 57, role: markers, filename: assets/KR2a0017_057-CHANT.markers.yaml, hash: 'sha256:6b324871c5ee89ed94a5e605b0a467ae884b3b2641f3a00847fbdeca3596525f'}
+  - {seq: 58, role: markers, filename: assets/KR2a0017_058-CHANT.markers.yaml, hash: 'sha256:f0a3741ea2bba2f90ef302467f9a02aaa974cb24e408a05e1b3cdbe3f34e720e'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR2a0017_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3687
+  label: 卷二本紀第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2a0017_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 7831
+  label: 卷三本紀第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2a0017_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 2408
+  label: 卷四本紀第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2a0017_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 1650
+  label: 卷五本紀第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2a0017_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 3912
+  label: 卷六本紀第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2a0017_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 4473
+  label: 卷七本紀第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2a0017_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 1523
+  label: 卷八本紀第八
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2a0017_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 3269
+  label: 卷十志第二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2a0017_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 5665
+  label: 卷十二志第四
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2a0017_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 5329
+  label: 卷十三志第五
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR2a0017_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 3182
+  label: 卷十七志第九
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR2a0017_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 5122
+  label: 卷十八志第十
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR2a0017_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 5397
+  label: 卷十九志第十一
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR2a0017_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 2022
+  label: 卷二十列傳第一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR2a0017_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 2451
+  label: 卷二十一列傳第二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR2a0017_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 6948
+  label: 卷二十二列傳第三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR2a0017_CHANT_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 5880
+  label: 卷二十三列傳第四
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR2a0017_CHANT_027-1a.1-h
+    span:
+    - body
+    - 0
+    - 5694
+  label: 卷二十七列傳第八
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR2a0017_CHANT_028-1a.1-h
+    span:
+    - body
+    - 0
+    - 6223
+  label: 卷二十八列傳第九
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR2a0017_CHANT_029-1a.1-h
+    span:
+    - body
+    - 0
+    - 5087
+  label: 卷二十九列傳第十
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR2a0017_CHANT_030-1a.1-h
+    span:
+    - body
+    - 0
+    - 4548
+  label: 卷三十列傳第十一
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR2a0017_CHANT_031-1a.1-h
+    span:
+    - body
+    - 0
+    - 2316
+  label: 卷三十一列傳第十二
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR2a0017_CHANT_032-1a.1-h
+    span:
+    - body
+    - 0
+    - 3791
+  label: 卷三十二列傳第十三
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR2a0017_CHANT_034-1a.1-h
+    span:
+    - body
+    - 0
+    - 4536
+  label: 卷三十四列傳第十五
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR2a0017_CHANT_035-1a.1-h
+    span:
+    - body
+    - 0
+    - 4209
+  label: 卷三十五列傳第十六
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR2a0017_CHANT_037-1a.1-h
+    span:
+    - body
+    - 0
+    - 4328
+  label: 卷三十七列傳第十八
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR2a0017_CHANT_042-1a.1-h
+    span:
+    - body
+    - 0
+    - 4784
+  label: 卷四十二列傳第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR2a0017_CHANT_050-1a.1-h
+    span:
+    - body
+    - 0
+    - 1969
+  label: 卷五十列傳第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR2a0017_CHANT_053-1a.1-h
+    span:
+    - body
+    - 0
+    - 3656
+  label: 卷五十三列傳第三十四
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR2a0017_CHANT_055-1a.1-h
+    span:
+    - body
+    - 0
+    - 4153
+  label: 卷五十五列傳第三十六
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR2a0017_CHANT_056-1a.1-h
+    span:
+    - body
+    - 0
+    - 3383
+  label: 卷五十六列傳第三十七
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR2a0017_CHANT_057-1a.1-h
+    span:
+    - body
+    - 0
+    - 8052
+  label: 卷五十七列傳第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR2a0017_CHANT_058-1a.1-h
+    span:
+    - body
+    - 0
+    - 4854
+  label: 卷五十八列傳第三十九
+  type: section
+  level: 1
+hash: sha256:a65a645e34b09b700d440ba91624617f7407376880611e5112b10622578c6ec9

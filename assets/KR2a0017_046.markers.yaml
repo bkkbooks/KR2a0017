@@ -18,6 +18,7 @@ markers:
   - {type: indent, offset: 18, content: 　, id: KR2a0017_ZHSJ_046-bkkind2}
   - {type: indent, offset: 20, content: 　, id: KR2a0017_ZHSJ_046-bkkind3}
   - {type: punctuation, offset: 23, content: (, id: KR2a0017_ZHSJ_046-bkkpn1}
+  - {type: voice, offset: 23, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 26, content: ), id: KR2a0017_ZHSJ_046-bkkpn2}
   - {type: indent, offset: 26, content: 　, id: KR2a0017_ZHSJ_046-bkkind4}
   - {type: variant, offset: 27, length: 1, content: 惠, WYG: 恵}
@@ -463,6 +464,7 @@ markers:
   - {type: punctuation, offset: 829, content: （, id: KR2a0017_ZHSJ_046-bkkpn173}
   - {type: variant, offset: 829, length: 1, content: 離, WYG: ''}
   - {type: variant, offset: 829, length: 1, content: 離, krp: ''}
+  - {type: voice, offset: 829, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 830, content: ）, id: KR2a0017_ZHSJ_046-bkkpn174}
   - {type: punctuation, offset: 830, content: ), id: KR2a0017_ZHSJ_046-bkkpn175}
   - {type: punctuation, offset: 830, content: ，, id: KR2a0017_ZHSJ_046-bkkpn176}
@@ -778,6 +780,7 @@ markers:
   - {type: punctuation, offset: 1335, content: （, id: KR2a0017_ZHSJ_046-bkkpn292}
   - {type: variant, offset: 1335, length: 2, content: 篆策, WYG: 䇿}
   - {type: variant, offset: 1335, length: 2, content: 篆策, krp: 䇿}
+  - {type: voice, offset: 1335, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1336, content: ）, id: KR2a0017_ZHSJ_046-bkkpn293}
   - {type: punctuation, offset: 1336, content: ), id: KR2a0017_ZHSJ_046-bkkpn294}
   - {type: punctuation, offset: 1336, content: 【, id: KR2a0017_ZHSJ_046-bkkpn295}
@@ -909,6 +912,7 @@ markers:
   - {type: punctuation, offset: 1526, content: （, id: KR2a0017_ZHSJ_046-bkkpn341}
   - {type: variant, offset: 1526, length: 1, content: 日, WYG: ''}
   - {type: variant, offset: 1526, length: 1, content: 日, krp: ''}
+  - {type: voice, offset: 1526, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1527, content: ）, id: KR2a0017_ZHSJ_046-bkkpn342}
   - {type: punctuation, offset: 1527, content: ), id: KR2a0017_ZHSJ_046-bkkpn343}
   - {type: punctuation, offset: 1527, content: 【, id: KR2a0017_ZHSJ_046-bkkpn344}
@@ -1051,6 +1055,7 @@ markers:
   - {type: punctuation, offset: 1736, content: （, id: KR2a0017_ZHSJ_046-bkkpn403}
   - {type: variant, offset: 1736, length: 1, content: 興, WYG: ''}
   - {type: variant, offset: 1736, length: 1, content: 興, krp: ''}
+  - {type: voice, offset: 1736, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1737, content: ）, id: KR2a0017_ZHSJ_046-bkkpn404}
   - {type: punctuation, offset: 1737, content: ), id: KR2a0017_ZHSJ_046-bkkpn405}
   - {type: punctuation, offset: 1737, content: 【, id: KR2a0017_ZHSJ_046-bkkpn406}
@@ -1436,6 +1441,7 @@ markers:
   - {type: punctuation, offset: 2371, content: （, id: KR2a0017_ZHSJ_046-bkkpn564}
   - {type: variant, offset: 2371, length: 2, content: 明元, WYG: 眀}
   - {type: variant, offset: 2371, length: 2, content: 明元, krp: 眀}
+  - {type: voice, offset: 2371, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 2372, content: ）, id: KR2a0017_ZHSJ_046-bkkpn565}
   - {type: punctuation, offset: 2372, content: ), id: KR2a0017_ZHSJ_046-bkkpn566}
   - {type: punctuation, offset: 2372, content: 【, id: KR2a0017_ZHSJ_046-bkkpn567}
@@ -2316,6 +2322,7 @@ markers:
   - {type: punctuation, offset: 3830, content: （, id: KR2a0017_ZHSJ_046-bkkpn893}
   - {type: variant, offset: 3830, length: 1, content: 土, WYG: ''}
   - {type: variant, offset: 3830, length: 1, content: 土, krp: ''}
+  - {type: voice, offset: 3830, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 3831, content: ）, id: KR2a0017_ZHSJ_046-bkkpn894}
   - {type: punctuation, offset: 3831, content: ), id: KR2a0017_ZHSJ_046-bkkpn895}
   - {type: punctuation, offset: 3831, content: 【, id: KR2a0017_ZHSJ_046-bkkpn896}
@@ -2564,6 +2571,7 @@ markers:
   - {type: punctuation, offset: 4184, content: （, id: KR2a0017_ZHSJ_046-bkkpn987}
   - {type: variant, offset: 4184, length: 1, content: 彌, WYG: ''}
   - {type: variant, offset: 4184, length: 1, content: 彌, krp: ''}
+  - {type: voice, offset: 4184, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 4185, content: ）, id: KR2a0017_ZHSJ_046-bkkpn988}
   - {type: punctuation, offset: 4185, content: ), id: KR2a0017_ZHSJ_046-bkkpn989}
   - {type: punctuation, offset: 4186, content: ．, id: KR2a0017_ZHSJ_046-bkkpn990}
@@ -3365,4 +3373,4 @@ markers:
   - {type: page-break, offset: 5444, content: '', id: KR2a0017_WYG_046-18b, image: WYG0259/WYG0259-0468b.png}
   - {type: variant, offset: 5444, length: 0, content: '', krp: 南齊書卷四十六南齊書卷四十六考證王秀之傳太尉從祖兄也臣承蒼按太尉下當有儉字僧祐𢎞之孫儉曇首之孫故曰從祖兄南齊書卷四十六考證}
   back: []
-hash: sha256:86cbee86cf86573b937c550f095d3b86573908dfec025f4974b5e2b2abcd99ac
+hash: sha256:8bea43f79ae318f80781d3a350fabbc6dcb57a3cb3cecfe4c21f77c2e225690e

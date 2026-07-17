@@ -459,6 +459,7 @@ markers:
   - {type: 'tls:seg', offset: 805, content: '', id: KR2a0017_ZHSJ_031-d31p6s41}
   - {type: punctuation, offset: 806, content: (, id: KR2a0017_ZHSJ_031-bkkpn179}
   - {type: punctuation, offset: 806, content: （, id: KR2a0017_ZHSJ_031-bkkpn180}
+  - {type: voice, offset: 806, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 807, content: ）, id: KR2a0017_ZHSJ_031-bkkpn181}
   - {type: punctuation, offset: 807, content: ), id: KR2a0017_ZHSJ_031-bkkpn182}
   - {type: punctuation, offset: 807, content: 【, id: KR2a0017_ZHSJ_031-bkkpn183}
@@ -470,6 +471,7 @@ markers:
   - {type: 'tls:seg', offset: 810, content: '', id: KR2a0017_ZHSJ_031-d31p6s42}
   - {type: punctuation, offset: 812, content: (, id: KR2a0017_ZHSJ_031-bkkpn187}
   - {type: punctuation, offset: 812, content: （, id: KR2a0017_ZHSJ_031-bkkpn188}
+  - {type: voice, offset: 812, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 813, content: ）, id: KR2a0017_ZHSJ_031-bkkpn189}
   - {type: punctuation, offset: 813, content: ), id: KR2a0017_ZHSJ_031-bkkpn190}
   - {type: punctuation, offset: 813, content: 【, id: KR2a0017_ZHSJ_031-bkkpn191}
@@ -571,6 +573,7 @@ markers:
   - {type: punctuation, offset: 941, content: (, id: KR2a0017_ZHSJ_031-bkkpn224}
   - {type: punctuation, offset: 941, content: （, id: KR2a0017_ZHSJ_031-bkkpn225}
   - {type: substitution, offset: 941, original: 奸, replacement: 姦, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16421}}
+  - {type: voice, offset: 941, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 942, content: ）, id: KR2a0017_ZHSJ_031-bkkpn226}
   - {type: punctuation, offset: 942, content: ), id: KR2a0017_ZHSJ_031-bkkpn227}
   - {type: punctuation, offset: 942, content: 【, id: KR2a0017_ZHSJ_031-bkkpn228}
@@ -1366,4 +1369,4 @@ markers:
   - {type: page-break, offset: 2326, content: '', id: KR2a0017_WYG_031-8b, image: WYG0259/WYG0259-0342b.png}
   - {type: variant, offset: 2326, length: 0, content: '', krp: 南齊書卷三十一}
   back: []
-hash: sha256:715e58a2cd516535826d4ef9a5b91084d96fde4fb3f10b808d3dd571e8e5ce01
+hash: sha256:d9ae9ed3846024d35c6f7b8c416458bc082640be735f60d2a896885ff2bf6ab4

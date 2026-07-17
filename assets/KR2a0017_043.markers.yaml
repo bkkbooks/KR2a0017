@@ -52,6 +52,7 @@ markers:
   - {type: punctuation, offset: 53, content: （, id: KR2a0017_ZHSJ_043-bkkpn9}
   - {type: variant, offset: 53, length: 1, content: 祖, WYG: 子}
   - {type: variant, offset: 53, length: 1, content: 祖, krp: 子}
+  - {type: voice, offset: 53, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 54, content: ）, id: KR2a0017_ZHSJ_043-bkkpn10}
   - {type: punctuation, offset: 54, content: ), id: KR2a0017_ZHSJ_043-bkkpn11}
   - {type: line-break, offset: 54, content: '', id: ZHSJ__dup8678}
@@ -239,6 +240,7 @@ markers:
   - {type: punctuation, offset: 316, content: （, id: KR2a0017_ZHSJ_043-bkkpn73}
   - {type: variant, offset: 316, length: 1, content: 渟, WYG: ''}
   - {type: variant, offset: 316, length: 1, content: 渟, krp: ''}
+  - {type: voice, offset: 316, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 317, content: ）, id: KR2a0017_ZHSJ_043-bkkpn74}
   - {type: punctuation, offset: 317, content: ), id: KR2a0017_ZHSJ_043-bkkpn75}
   - {type: punctuation, offset: 317, content: 【, id: KR2a0017_ZHSJ_043-bkkpn76}
@@ -256,6 +258,7 @@ markers:
   - {type: punctuation, offset: 328, content: （, id: KR2a0017_ZHSJ_043-bkkpn83}
   - {type: variant, offset: 328, length: 1, content: 從, WYG: ''}
   - {type: variant, offset: 328, length: 1, content: 從, krp: ''}
+  - {type: voice, offset: 328, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 329, content: ）, id: KR2a0017_ZHSJ_043-bkkpn84}
   - {type: punctuation, offset: 329, content: ), id: KR2a0017_ZHSJ_043-bkkpn85}
   - {type: punctuation, offset: 329, content: 【, id: KR2a0017_ZHSJ_043-bkkpn86}
@@ -662,6 +665,7 @@ markers:
   - {type: punctuation, offset: 934, content: （, id: KR2a0017_ZHSJ_043-bkkpn225}
   - {type: variant, offset: 934, length: 1, content: 夙, WYG: ''}
   - {type: variant, offset: 934, length: 1, content: 夙, krp: ''}
+  - {type: voice, offset: 934, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 935, content: ）, id: KR2a0017_ZHSJ_043-bkkpn226}
   - {type: punctuation, offset: 935, content: ), id: KR2a0017_ZHSJ_043-bkkpn227}
   - {type: punctuation, offset: 935, content: 【, id: KR2a0017_ZHSJ_043-bkkpn228}
@@ -1035,6 +1039,7 @@ markers:
   - {type: 'tls:seg', offset: 1486, content: '', id: KR2a0017_ZHSJ_043-d43p24s1}
   - {type: line-break, offset: 1486, content: '', id: ZHSJ__dup8730}
   - {type: punctuation, offset: 1486, content: (, id: KR2a0017_ZHSJ_043-bkkpn347}
+  - {type: voice, offset: 1486, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 1489, content: ), id: KR2a0017_ZHSJ_043-bkkpn348}
   - {type: punctuation, offset: 1493, content: ．, id: KR2a0017_ZHSJ_043-bkkpn349}
   - {type: 'tls:seg', offset: 1493, content: '', id: KR2a0017_ZHSJ_043-d43p24s2}
@@ -1172,6 +1177,7 @@ markers:
   - {type: 'tls:seg', offset: 1702, content: '', id: KR2a0017_ZHSJ_043-d43p30s6}
   - {type: punctuation, offset: 1705, content: (, id: KR2a0017_ZHSJ_043-bkkpn392}
   - {type: punctuation, offset: 1705, content: （, id: KR2a0017_ZHSJ_043-bkkpn393}
+  - {type: voice, offset: 1705, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 1706, content: ）, id: KR2a0017_ZHSJ_043-bkkpn394}
   - {type: punctuation, offset: 1706, content: ), id: KR2a0017_ZHSJ_043-bkkpn395}
   - {type: punctuation, offset: 1706, content: 【, id: KR2a0017_ZHSJ_043-bkkpn396}
@@ -1638,6 +1644,7 @@ markers:
   - {type: line-break, offset: 2396, content: '', id: ZHSJ__dup8763}
   - {type: punctuation, offset: 2396, content: (, id: KR2a0017_ZHSJ_043-bkkpn558}
   - {type: punctuation, offset: 2396, content: （, id: KR2a0017_ZHSJ_043-bkkpn559}
+  - {type: voice, offset: 2396, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 2397, content: ）, id: KR2a0017_ZHSJ_043-bkkpn560}
   - {type: punctuation, offset: 2397, content: ), id: KR2a0017_ZHSJ_043-bkkpn561}
   - {type: punctuation, offset: 2400, content: ．, id: KR2a0017_ZHSJ_043-bkkpn562}
@@ -1858,6 +1865,7 @@ markers:
   - {type: punctuation, offset: 2737, content: （, id: KR2a0017_ZHSJ_043-bkkpn634}
   - {type: variant, offset: 2737, length: 1, content: 齊, WYG: ''}
   - {type: variant, offset: 2737, length: 1, content: 齊, krp: ''}
+  - {type: voice, offset: 2737, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 2738, content: ）, id: KR2a0017_ZHSJ_043-bkkpn635}
   - {type: punctuation, offset: 2738, content: ), id: KR2a0017_ZHSJ_043-bkkpn636}
   - {type: punctuation, offset: 2738, content: 【, id: KR2a0017_ZHSJ_043-bkkpn637}
@@ -2682,4 +2690,4 @@ markers:
   - {type: page-break, offset: 4027, content: '', id: KR2a0017_WYG_043-14b, image: WYG0259/WYG0259-0444b.png}
   - {type: variant, offset: 4027, length: 0, content: '', krp: 南齊書卷四十三南齊書卷四十三考證何昌㝢傳眀帝遣徐𤣥慶至荆州欲以便宜從事臣祖庚按南史眀帝使裴叔業賫㫖詔昌㝢令以便宜從事叔業傳無此事又按通鑑從齊書作徐𤣥慶據此則南史誤矣謝卄瀹傳朏指卄瀹口曰此中唯宜飲酒臣宗萬按尺牘謝朏與弟卄瀹書曰今致數斗酒可力飲此勿豫人事與此小異南齊書卷四十三考證}
   back: []
-hash: sha256:9d124bad729f8990c8d60def2a374a139df0ff5a62ca74dc17eb10a63d995b61
+hash: sha256:2db1ddf2c359fb61d024ee212653afc2ee138f180f5af83b6c0e0830f14abe08

@@ -1278,6 +1278,7 @@ markers:
   - {type: punctuation, offset: 2045, content: （, id: KR2a0017_ZHSJ_018-bkkpn493}
   - {type: variant, offset: 2045, length: 1, content: 盧, WYG: ''}
   - {type: variant, offset: 2045, length: 1, content: 盧, krp: ''}
+  - {type: voice, offset: 2045, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2046, content: ）, id: KR2a0017_ZHSJ_018-bkkpn494}
   - {type: punctuation, offset: 2046, content: ), id: KR2a0017_ZHSJ_018-bkkpn495}
   - {type: punctuation, offset: 2046, content: 【, id: KR2a0017_ZHSJ_018-bkkpn496}
@@ -2047,6 +2048,7 @@ markers:
   - {type: variant, offset: 3207, length: 1, content: 欀, WYG: 榱}
   - {type: variant, offset: 3207, length: 1, content: 欀, krp: 榱}
   - {type: punctuation, offset: 3208, content: (, id: KR2a0017_ZHSJ_018-bkkpn719}
+  - {type: voice, offset: 3208, length: 5, name: note, id: n2}
   - {type: variant, offset: 3212, length: 1, content: 攘, WYG: 欀}
   - {type: variant, offset: 3212, length: 1, content: 攘, krp: 欀}
   - {type: punctuation, offset: 3213, content: ), id: KR2a0017_ZHSJ_018-bkkpn720}
@@ -2425,6 +2427,7 @@ markers:
   - {type: 'tls:seg', offset: 3820, content: '', id: KR2a0017_ZHSJ_018-d18p121s2}
   - {type: punctuation, offset: 3823, content: (, id: KR2a0017_ZHSJ_018-bkkpn826}
   - {type: punctuation, offset: 3823, content: （, id: KR2a0017_ZHSJ_018-bkkpn827}
+  - {type: voice, offset: 3823, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3824, content: ）, id: KR2a0017_ZHSJ_018-bkkpn828}
   - {type: punctuation, offset: 3824, content: ), id: KR2a0017_ZHSJ_018-bkkpn829}
   - {type: punctuation, offset: 3824, content: 【, id: KR2a0017_ZHSJ_018-bkkpn830}
@@ -2551,6 +2554,7 @@ markers:
   - {type: 'tls:seg', offset: 4019, content: '', id: KR2a0017_ZHSJ_018-d18p132s2}
   - {type: punctuation, offset: 4019, content: (, id: KR2a0017_ZHSJ_018-bkkpn867}
   - {type: punctuation, offset: 4019, content: （, id: KR2a0017_ZHSJ_018-bkkpn868}
+  - {type: voice, offset: 4019, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4020, content: ）, id: KR2a0017_ZHSJ_018-bkkpn869}
   - {type: punctuation, offset: 4020, content: ), id: KR2a0017_ZHSJ_018-bkkpn870}
   - {type: punctuation, offset: 4020, content: 【, id: KR2a0017_ZHSJ_018-bkkpn871}
@@ -3239,4 +3243,4 @@ markers:
   - {type: page-break, offset: 5131, content: '', id: KR2a0017_WYG_018-21b, image: WYG0259/WYG0259-0228d.png}
   - {type: variant, offset: 5131, length: 0, content: '', krp: 南齊書卷十八南齊書卷十八考證祥瑞志黄門郎蘇偘撰聖皇瑞應記臣承蒼按蘇偘事齊太祖最久嘗撰蕭太尉記侈陳征伐之功及太祖即位又撰瑞應記一卷上之此特一時獻䛕之書而蕭子顯因之遂創立祥瑞一志殊屬不經史筆至此鄙穢甚矣此齊者黄公之化氣也諸本同臣承蒼按南史齊髙帝紀黄下有石字李斯刻秦望之封也南史齊髙帝紀封作風南齊書卷十八考證}
   back: []
-hash: sha256:4a4582c366dd014fc9fad6d9b7c872e96c15554dcd2ee07aebfeba45d5a613c8
+hash: sha256:459efc283c308d6b685657c37402c1447aeb781e31de8b85d56cfa018377923a

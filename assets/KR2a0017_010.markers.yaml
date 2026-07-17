@@ -74,6 +74,7 @@ markers:
   - {type: punctuation, offset: 101, content: （, id: KR2a0017_ZHSJ_010-bkkpn24}
   - {type: variant, offset: 101, length: 2, content: 廣廟, WYG: 葬}
   - {type: variant, offset: 101, length: 2, content: 廣廟, krp: 葬}
+  - {type: voice, offset: 101, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 102, content: ）, id: KR2a0017_ZHSJ_010-bkkpn25}
   - {type: punctuation, offset: 102, content: ), id: KR2a0017_ZHSJ_010-bkkpn26}
   - {type: punctuation, offset: 102, content: 【, id: KR2a0017_ZHSJ_010-bkkpn27}
@@ -1573,6 +1574,7 @@ markers:
   - {type: 'tls:seg', offset: 2673, content: '', id: KR2a0017_ZHSJ_010-d10p20s2}
   - {type: punctuation, offset: 2677, content: (, id: KR2a0017_ZHSJ_010-bkkpn608}
   - {type: punctuation, offset: 2677, content: （, id: KR2a0017_ZHSJ_010-bkkpn609}
+  - {type: voice, offset: 2677, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2678, content: ）, id: KR2a0017_ZHSJ_010-bkkpn610}
   - {type: punctuation, offset: 2678, content: ), id: KR2a0017_ZHSJ_010-bkkpn611}
   - {type: punctuation, offset: 2678, content: 【, id: KR2a0017_ZHSJ_010-bkkpn612}
@@ -1676,6 +1678,7 @@ markers:
   - {type: line-break, offset: 2902, content: '', id: ZHSJ__dup1862}
   - {type: punctuation, offset: 2903, content: (, id: KR2a0017_ZHSJ_010-bkkpn656}
   - {type: punctuation, offset: 2903, content: （, id: KR2a0017_ZHSJ_010-bkkpn657}
+  - {type: voice, offset: 2903, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2904, content: ）, id: KR2a0017_ZHSJ_010-bkkpn658}
   - {type: punctuation, offset: 2904, content: ), id: KR2a0017_ZHSJ_010-bkkpn659}
   - {type: punctuation, offset: 2904, content: 【, id: KR2a0017_ZHSJ_010-bkkpn660}
@@ -1751,6 +1754,7 @@ markers:
   - {type: 'tls:seg', offset: 3012, content: '', id: KR2a0017_ZHSJ_010-d10p20s61}
   - {type: punctuation, offset: 3021, content: (, id: KR2a0017_ZHSJ_010-bkkpn687}
   - {type: punctuation, offset: 3021, content: （, id: KR2a0017_ZHSJ_010-bkkpn688}
+  - {type: voice, offset: 3021, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3022, content: ）, id: KR2a0017_ZHSJ_010-bkkpn689}
   - {type: punctuation, offset: 3022, content: ), id: KR2a0017_ZHSJ_010-bkkpn690}
   - {type: punctuation, offset: 3022, content: 【, id: KR2a0017_ZHSJ_010-bkkpn691}
@@ -1801,6 +1805,7 @@ markers:
   - {type: 'tls:seg', offset: 3093, content: '', id: KR2a0017_ZHSJ_010-d10p21s14}
   - {type: punctuation, offset: 3096, content: (, id: KR2a0017_ZHSJ_010-bkkpn708}
   - {type: punctuation, offset: 3096, content: （, id: KR2a0017_ZHSJ_010-bkkpn709}
+  - {type: voice, offset: 3096, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 3097, content: ）, id: KR2a0017_ZHSJ_010-bkkpn710}
   - {type: punctuation, offset: 3097, content: ), id: KR2a0017_ZHSJ_010-bkkpn711}
   - {type: punctuation, offset: 3097, content: 【, id: KR2a0017_ZHSJ_010-bkkpn712}
@@ -1938,4 +1943,4 @@ markers:
   - {type: page-break, offset: 3276, content: '', id: KR2a0017_WYG_010-12b, image: WYG0259/WYG0259-0108b.png}
   - {type: variant, offset: 3276, length: 0, content: '', krp: 南齊書卷十南齊書卷十考證禮志下鄭射王賀臣祖庚按為鄭𤣥射慈王肅賀循也于時江充議云諸本同南監本作何充當從之南齊書卷十考證}
   back: []
-hash: sha256:3c28af9c499f41abf88750f87b0cabb599d8f36fd72e2087bf73c678c43e6020
+hash: sha256:aef81143d797ea8ffea8b1041a62c5587caf3e5d2e6fd53787176d30334c0f98

@@ -1027,6 +1027,7 @@ markers:
   - {type: 'tls:seg', offset: 1650, content: '', id: KR2a0017_ZHSJ_052-d52p17s4}
   - {type: punctuation, offset: 1650, content: (, id: KR2a0017_ZHSJ_052-bkkpn416}
   - {type: punctuation, offset: 1650, content: （, id: KR2a0017_ZHSJ_052-bkkpn417}
+  - {type: voice, offset: 1650, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1651, content: ）, id: KR2a0017_ZHSJ_052-bkkpn418}
   - {type: punctuation, offset: 1651, content: ), id: KR2a0017_ZHSJ_052-bkkpn419}
   - {type: punctuation, offset: 1651, content: 【, id: KR2a0017_ZHSJ_052-bkkpn420}
@@ -1353,6 +1354,7 @@ markers:
   - {type: punctuation, offset: 2201, content: （, id: KR2a0017_ZHSJ_052-bkkpn537}
   - {type: variant, offset: 2201, length: 1, content: 外, WYG: ''}
   - {type: variant, offset: 2201, length: 1, content: 外, krp: ''}
+  - {type: voice, offset: 2201, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2202, content: ）, id: KR2a0017_ZHSJ_052-bkkpn538}
   - {type: punctuation, offset: 2202, content: ), id: KR2a0017_ZHSJ_052-bkkpn539}
   - {type: punctuation, offset: 2202, content: 【, id: KR2a0017_ZHSJ_052-bkkpn540}
@@ -2558,6 +2560,7 @@ markers:
   - {type: 'tls:seg', offset: 4232, content: '', id: KR2a0017_ZHSJ_052-d52p78s4}
   - {type: punctuation, offset: 4234, content: (, id: KR2a0017_ZHSJ_052-bkkpn971}
   - {type: punctuation, offset: 4234, content: （, id: KR2a0017_ZHSJ_052-bkkpn972}
+  - {type: voice, offset: 4234, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4235, content: ）, id: KR2a0017_ZHSJ_052-bkkpn973}
   - {type: punctuation, offset: 4235, content: ), id: KR2a0017_ZHSJ_052-bkkpn974}
   - {type: punctuation, offset: 4235, content: 【, id: KR2a0017_ZHSJ_052-bkkpn975}
@@ -2837,6 +2840,7 @@ markers:
   - {type: punctuation, offset: 4705, content: （, id: KR2a0017_ZHSJ_052-bkkpn1092}
   - {type: variant, offset: 4705, length: 1, content: 泥, WYG: ''}
   - {type: variant, offset: 4705, length: 1, content: 泥, krp: ''}
+  - {type: voice, offset: 4705, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4706, content: ）, id: KR2a0017_ZHSJ_052-bkkpn1093}
   - {type: punctuation, offset: 4706, content: ), id: KR2a0017_ZHSJ_052-bkkpn1094}
   - {type: punctuation, offset: 4706, content: 【, id: KR2a0017_ZHSJ_052-bkkpn1095}
@@ -3403,6 +3407,7 @@ markers:
   - {type: punctuation, offset: 5565, content: 】, id: KR2a0017_ZHSJ_052-bkkpn1292}
   - {type: punctuation, offset: 5565, content: (, id: KR2a0017_ZHSJ_052-bkkpn1293}
   - {type: punctuation, offset: 5565, content: （, id: KR2a0017_ZHSJ_052-bkkpn1294}
+  - {type: voice, offset: 5565, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 5566, content: ）, id: KR2a0017_ZHSJ_052-bkkpn1295}
   - {type: punctuation, offset: 5566, content: ), id: KR2a0017_ZHSJ_052-bkkpn1296}
   - {type: punctuation, offset: 5566, content: 【, id: KR2a0017_ZHSJ_052-bkkpn1297}
@@ -4099,6 +4104,7 @@ markers:
   - {type: variant, offset: 6617, length: 1, content: 藏, krp: 蔵}
   - {type: punctuation, offset: 6620, content: (, id: KR2a0017_ZHSJ_052-bkkpn1529}
   - {type: punctuation, offset: 6620, content: （, id: KR2a0017_ZHSJ_052-bkkpn1530}
+  - {type: voice, offset: 6620, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 6621, content: ）, id: KR2a0017_ZHSJ_052-bkkpn1531}
   - {type: punctuation, offset: 6621, content: ), id: KR2a0017_ZHSJ_052-bkkpn1532}
   - {type: punctuation, offset: 6621, content: 【, id: KR2a0017_ZHSJ_052-bkkpn1533}
@@ -4107,6 +4113,7 @@ markers:
   - {type: punctuation, offset: 6622, content: 】, id: KR2a0017_ZHSJ_052-bkkpn1534}
   - {type: punctuation, offset: 6622, content: (, id: KR2a0017_ZHSJ_052-bkkpn1535}
   - {type: punctuation, offset: 6622, content: （, id: KR2a0017_ZHSJ_052-bkkpn1536}
+  - {type: voice, offset: 6622, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 6623, content: ）, id: KR2a0017_ZHSJ_052-bkkpn1537}
   - {type: punctuation, offset: 6623, content: ), id: KR2a0017_ZHSJ_052-bkkpn1538}
   - {type: punctuation, offset: 6626, content: ．, id: KR2a0017_ZHSJ_052-bkkpn1539}
@@ -4153,6 +4160,7 @@ markers:
   - {type: 'tls:seg', offset: 6703, content: '', id: KR2a0017_ZHSJ_052-d52p126s5}
   - {type: punctuation, offset: 6706, content: (, id: KR2a0017_ZHSJ_052-bkkpn1553}
   - {type: punctuation, offset: 6706, content: （, id: KR2a0017_ZHSJ_052-bkkpn1554}
+  - {type: voice, offset: 6706, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 6707, content: ）, id: KR2a0017_ZHSJ_052-bkkpn1555}
   - {type: punctuation, offset: 6707, content: ), id: KR2a0017_ZHSJ_052-bkkpn1556}
   - {type: line-break, offset: 6707, content: '', id: ZHSJ__dup10307}
@@ -4644,4 +4652,4 @@ markers:
   - {type: page-break, offset: 7496, content: '', id: KR2a0017_WYG_052-24b, image: WYG0259/WYG0259-0518b.png}
   - {type: variant, offset: 7496, length: 0, content: '', krp: 南齊書卷五十二南齊書卷五十二考證卞彬傳虱有諺言南史言作云晏聚乎久襟爛布之裳南史襟作袴服無改換掐齧不能加脱畧緩嬾南史無此十三字復不懃於捕討南史於作之孫孫息息南史息息作子子王智深掘莧根食之南史莧作筦陸厥傳低昂舛節諸本同舛節沈約宋書論本作互節賈淵傳淵坐被求當極法求南史作收南齊書卷五十二考證}
   back: []
-hash: sha256:babddeaaadd00a6f609da0bf899156d15c40b708edf5eb46c816e1adce9e9cab
+hash: sha256:346e416d709db0307f5c361785beb254a9cd12114002fc598f7102c8c85d6bcb

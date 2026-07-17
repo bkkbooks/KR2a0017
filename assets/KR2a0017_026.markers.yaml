@@ -166,6 +166,7 @@ markers:
   - {type: 'tls:seg', offset: 277, content: '', id: KR2a0017_ZHSJ_026-d26p3s9}
   - {type: punctuation, offset: 279, content: (, id: KR2a0017_ZHSJ_026-bkkpn54}
   - {type: punctuation, offset: 279, content: （, id: KR2a0017_ZHSJ_026-bkkpn55}
+  - {type: voice, offset: 279, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 281, content: ）, id: KR2a0017_ZHSJ_026-bkkpn56}
   - {type: punctuation, offset: 281, content: ), id: KR2a0017_ZHSJ_026-bkkpn57}
   - {type: punctuation, offset: 284, content: ．, id: KR2a0017_ZHSJ_026-bkkpn58}
@@ -796,6 +797,7 @@ markers:
   - {type: 'tls:seg', offset: 1405, content: '', id: KR2a0017_ZHSJ_026-d26p16s5}
   - {type: punctuation, offset: 1405, content: (, id: KR2a0017_ZHSJ_026-bkkpn298}
   - {type: punctuation, offset: 1405, content: （, id: KR2a0017_ZHSJ_026-bkkpn299}
+  - {type: voice, offset: 1405, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1406, content: ）, id: KR2a0017_ZHSJ_026-bkkpn300}
   - {type: punctuation, offset: 1406, content: ), id: KR2a0017_ZHSJ_026-bkkpn301}
   - {type: punctuation, offset: 1410, content: ，, id: KR2a0017_ZHSJ_026-bkkpn302}
@@ -1004,6 +1006,7 @@ markers:
   - {type: punctuation, offset: 1687, content: （, id: KR2a0017_ZHSJ_026-bkkpn371}
   - {type: variant, offset: 1687, length: 1, content: 其, WYG: ''}
   - {type: variant, offset: 1687, length: 1, content: 其, krp: ''}
+  - {type: voice, offset: 1687, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1688, content: ）, id: KR2a0017_ZHSJ_026-bkkpn372}
   - {type: punctuation, offset: 1688, content: ), id: KR2a0017_ZHSJ_026-bkkpn373}
   - {type: punctuation, offset: 1688, content: 【, id: KR2a0017_ZHSJ_026-bkkpn374}
@@ -1656,6 +1659,7 @@ markers:
   - {type: punctuation, offset: 2831, content: 、, id: KR2a0017_ZHSJ_026-bkkpn631}
   - {type: punctuation, offset: 2832, content: (, id: KR2a0017_ZHSJ_026-bkkpn632}
   - {type: punctuation, offset: 2832, content: （, id: KR2a0017_ZHSJ_026-bkkpn633}
+  - {type: voice, offset: 2832, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2833, content: ）, id: KR2a0017_ZHSJ_026-bkkpn634}
   - {type: punctuation, offset: 2833, content: ), id: KR2a0017_ZHSJ_026-bkkpn635}
   - {type: line-break, offset: 2833, content: '', id: ZHSJ__dup5731}
@@ -2024,6 +2028,7 @@ markers:
   - {type: punctuation, offset: 3505, content: （, id: KR2a0017_ZHSJ_026-bkkpn787}
   - {type: variant, offset: 3505, length: 1, content: 客, WYG: ''}
   - {type: variant, offset: 3505, length: 1, content: 客, krp: ''}
+  - {type: voice, offset: 3505, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 3506, content: ）, id: KR2a0017_ZHSJ_026-bkkpn788}
   - {type: punctuation, offset: 3506, content: ), id: KR2a0017_ZHSJ_026-bkkpn789}
   - {type: line-break, offset: 3506, content: '', id: ZHSJ__dup5755}
@@ -2202,6 +2207,7 @@ markers:
   - {type: variant, offset: 3825, length: 2, content: 達乃, krp: 逹}
   - {type: punctuation, offset: 3826, content: (, id: KR2a0017_ZHSJ_026-bkkpn857}
   - {type: punctuation, offset: 3826, content: （, id: KR2a0017_ZHSJ_026-bkkpn858}
+  - {type: voice, offset: 3826, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 3827, content: ）, id: KR2a0017_ZHSJ_026-bkkpn859}
   - {type: punctuation, offset: 3827, content: ), id: KR2a0017_ZHSJ_026-bkkpn860}
   - {type: punctuation, offset: 3828, content: ，, id: KR2a0017_ZHSJ_026-bkkpn861}
@@ -2745,6 +2751,7 @@ markers:
   - {type: punctuation, offset: 4834, content: （, id: KR2a0017_ZHSJ_026-bkkpn1078}
   - {type: variant, offset: 4834, length: 1, content: 許, WYG: ''}
   - {type: variant, offset: 4834, length: 1, content: 許, krp: ''}
+  - {type: voice, offset: 4834, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 4835, content: ）, id: KR2a0017_ZHSJ_026-bkkpn1079}
   - {type: punctuation, offset: 4835, content: ), id: KR2a0017_ZHSJ_026-bkkpn1080}
   - {type: punctuation, offset: 4835, content: 【, id: KR2a0017_ZHSJ_026-bkkpn1081}
@@ -3095,6 +3102,7 @@ markers:
   - {type: variant, offset: 5363, length: 2, content: 累黑, WYG: 黒}
   - {type: variant, offset: 5363, length: 2, content: 累黑, krp: 黒}
   - {type: substitution, offset: 5363, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
+  - {type: voice, offset: 5363, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 5364, content: ）, id: KR2a0017_ZHSJ_026-bkkpn1213}
   - {type: punctuation, offset: 5364, content: ), id: KR2a0017_ZHSJ_026-bkkpn1214}
   - {type: punctuation, offset: 5364, content: 【, id: KR2a0017_ZHSJ_026-bkkpn1215}
@@ -3836,6 +3844,7 @@ markers:
   - {type: punctuation, offset: 6555, content: （, id: KR2a0017_ZHSJ_026-bkkpn1457}
   - {type: variant, offset: 6555, length: 1, content: 從, WYG: ''}
   - {type: variant, offset: 6555, length: 1, content: 從, krp: ''}
+  - {type: voice, offset: 6555, length: 1, name: note, id: n9}
   - {type: punctuation, offset: 6556, content: ）, id: KR2a0017_ZHSJ_026-bkkpn1458}
   - {type: punctuation, offset: 6556, content: ), id: KR2a0017_ZHSJ_026-bkkpn1459}
   - {type: punctuation, offset: 6556, content: 【, id: KR2a0017_ZHSJ_026-bkkpn1460}
@@ -3982,9 +3991,10 @@ markers:
   - {type: page-break, offset: 6792, content: '', id: KR2a0017_WYG_026-23b, image: WYG0259/WYG0259-0300d.png}
   - {type: variant, offset: 6792, length: 5, content: 鳴笳細錫疑, krp: 南齊書卷二十六南齊書卷二十六考證王敬則傳衛尉丞顔靈寳窺見太祖乗馬在外竊謂親人曰今若不開内領軍天下㑹是亂耳臣祖庚按高帝紀不載宋後廢帝紀亦無此語通鑑考異曰靈實若語所親則須有知者豈得宿衛晏然不動據此則傳固未可盡信也明旦四貴集議按南史齊高帝紀公與袁粲褚彦回劉彦節更直入決事號為四貴仲雄於御前作懊儂曲臣祖庚按晉志曰懊儂歌者隆安初俗間訛謡之曲歌云春草可攬結女兒可攬擷杜佑曰懊儂歌石崇妾緑珠所作絲布澁難縫一曲而已仲雄葢倣其曲而作歌也收敬則子員外郎世雄臣承蒼按通鑑注云此即敬則世子仲雄也仲世二字必有一誤興盛軍容袁文曠斬之臣祖庚按通鑑作軍客又按南史有軍容馬容如桓康為齊高帝軍容蕭摩訶馬容陳智深葢皆簡拔魁健有武藝之士使之前驅以壯軍馬之容故以為名然則通鑑客字或容字之訛也南齊書卷二十六考證}
   - {type: punctuation, offset: 6796, content: (, id: KR2a0017_ZHSJ_026-bkkpn1518}
+  - {type: voice, offset: 6796, length: 1, name: note, id: n10}
   - {type: punctuation, offset: 6797, content: ), id: KR2a0017_ZHSJ_026-bkkpn1519}
   - {type: xml-element, offset: 6797, content: '', id: KR2a0017_ZHSJ_026-bkkxmlele158}
   - {type: xml-element, offset: 6797, content: '', id: KR2a0017_ZHSJ_026-d26n1}
   - {type: xml-element, offset: 6797, content: '', id: KR2a0017_ZHSJ_026-d26n1_end}
   back: []
-hash: sha256:01004291f2aa3dad67f42816988e81ed35fdeb393202b65db213b2b90bc71460
+hash: sha256:482a8d9c19d2a5d04d0981edc0eca54e33c9913d100ba5acec250634afc3e7cb

@@ -1799,6 +1799,7 @@ markers:
   - {type: 'tls:seg', offset: 2984, content: '', id: KR2a0017_ZHSJ_036-d36p52s24}
   - {type: punctuation, offset: 2987, content: (, id: KR2a0017_ZHSJ_036-bkkpn638}
   - {type: punctuation, offset: 2987, content: （, id: KR2a0017_ZHSJ_036-bkkpn639}
+  - {type: voice, offset: 2987, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2988, content: ）, id: KR2a0017_ZHSJ_036-bkkpn640}
   - {type: punctuation, offset: 2988, content: ), id: KR2a0017_ZHSJ_036-bkkpn641}
   - {type: punctuation, offset: 2988, content: 【, id: KR2a0017_ZHSJ_036-bkkpn642}
@@ -2078,6 +2079,7 @@ markers:
   - {type: 'tls:seg', offset: 3429, content: '', id: KR2a0017_ZHSJ_036-d36p56s2}
   - {type: punctuation, offset: 3429, content: (, id: KR2a0017_ZHSJ_036-bkkpn746}
   - {type: punctuation, offset: 3429, content: （, id: KR2a0017_ZHSJ_036-bkkpn747}
+  - {type: voice, offset: 3429, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3430, content: ）, id: KR2a0017_ZHSJ_036-bkkpn748}
   - {type: punctuation, offset: 3430, content: ), id: KR2a0017_ZHSJ_036-bkkpn749}
   - {type: punctuation, offset: 3430, content: 【, id: KR2a0017_ZHSJ_036-bkkpn750}
@@ -2102,4 +2104,4 @@ markers:
   - {type: page-break, offset: 3450, content: '', id: KR2a0017_WYG_036-12b, image: WYG0259/WYG0259-0378b.png}
   - {type: variant, offset: 3450, length: 0, content: '', krp: 南齊書卷三十六南齊書卷三十六考證史臣賛超宗藴文粗構餘芬諸本同臣承蒼按粗疑當作祖謂有靈運之餘芬也祖構二字見三都賦序南齊書卷三十六考證}
   back: []
-hash: sha256:af9165583f1b77dadab5cc9cd4d196b0f2878a3d3f78dab11ab6da13c8fa04f8
+hash: sha256:f8b6f41aa3905af070a60ab431bcdc19d7c78d19b3c41466a0211dbbdd4291bd

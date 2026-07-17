@@ -1273,6 +1273,7 @@ markers:
   - {type: punctuation, offset: 2126, content: （, id: KR2a0017_ZHSJ_042-bkkpn455}
   - {type: variant, offset: 2126, length: 1, content: 𥪡, WYG: ''}
   - {type: variant, offset: 2126, length: 1, content: 𥪡, krp: ''}
+  - {type: voice, offset: 2126, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2127, content: ）, id: KR2a0017_ZHSJ_042-bkkpn456}
   - {type: punctuation, offset: 2127, content: ), id: KR2a0017_ZHSJ_042-bkkpn457}
   - {type: line-break, offset: 2127, content: '', id: ZHSJ__dup8576}
@@ -1552,6 +1553,7 @@ markers:
   - {type: variant, offset: 2558, length: 1, content: 高, krp: 髙}
   - {type: punctuation, offset: 2559, content: (, id: KR2a0017_ZHSJ_042-bkkpn562}
   - {type: punctuation, offset: 2559, content: （, id: KR2a0017_ZHSJ_042-bkkpn563}
+  - {type: voice, offset: 2559, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2560, content: ）, id: KR2a0017_ZHSJ_042-bkkpn564}
   - {type: punctuation, offset: 2560, content: ), id: KR2a0017_ZHSJ_042-bkkpn565}
   - {type: punctuation, offset: 2560, content: 【, id: KR2a0017_ZHSJ_042-bkkpn566}
@@ -1890,6 +1892,7 @@ markers:
   - {type: punctuation, offset: 3096, content: （, id: KR2a0017_ZHSJ_042-bkkpn683}
   - {type: variant, offset: 3096, length: 3, content: 遷都尉, WYG: ''}
   - {type: variant, offset: 3096, length: 3, content: 遷都尉, krp: ''}
+  - {type: voice, offset: 3096, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 3099, content: ）, id: KR2a0017_ZHSJ_042-bkkpn684}
   - {type: punctuation, offset: 3099, content: ), id: KR2a0017_ZHSJ_042-bkkpn685}
   - {type: punctuation, offset: 3099, content: 【, id: KR2a0017_ZHSJ_042-bkkpn686}
@@ -2978,4 +2981,4 @@ markers:
   - {type: page-break, offset: 4779, content: '', id: KR2a0017_WYG_042-17b, image: WYG0259/WYG0259-0437b.png}
   - {type: variant, offset: 4779, length: 0, content: '', krp: 南齊書卷四十二南齊書卷四十二考證王晏傳字士彦南史作字休黙一字士彦漸見親侍侍汲古閣本作待元㑹畢乃召晏於華林省誅之臣宗萬按眀帝本紀四年正月丙辰晏伏誅通鑑考異曰丙辰正月二十八日也按郊禮必在正月既云未郊一日敕停則誅晏必非元㑹之日也本傳盖言元㑹禮後耳蕭諶傳諶於太祖為絶服族子通鑑諶世祖之族子也與此異仗身執還入省臣祖庚按通典唐制鎮戍之官給仗身其人眡鎮戍之上中下為差京官五品已上亦有仗身職員通鑑注云仗身執仗之衛士也一門二州兄弟三封臣祖庚按通鑑注云諶為南徐州誕為司州所謂二州也諶封衡陽郡公誄封西昌侯誕封安復侯所謂三封也蕭坦之傳以懃直為世祖所知臣祖庚按通鑑云嘗為東宫直閤為世宗所知注云既為東宫直閤則從世宗為是東宫亦有直閤將軍據此則祖字訛也並應還都汲古閣本作遷都尉江祏傳父徳隣南史作徳驎領南昌太守臣承蒼按齊世無南昌太守之官南史作領南平昌太守舅殊無渭陽之情臣承蒼按渭陽之詩言甥之致情於舅也後人多反用之南史晉安王子懋傳不意渭陽翻成梟鏡亦以渭陽為舅氏之稱南齊書卷四十二考證}
   back: []
-hash: sha256:b63b85700cfb95886e48dd967ec3c3735a2fe87b207cfe6e0012dd8924ac50b2
+hash: sha256:c3ff87fb22aac9a2738dc796305ba5d89108c61078cbfafbab4861d9dfda0a16

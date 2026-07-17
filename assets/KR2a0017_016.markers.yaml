@@ -145,6 +145,7 @@ markers:
   - {type: punctuation, offset: 205, content: ．, id: KR2a0017_ZHSJ_016-bkkpn47}
   - {type: 'tls:seg', offset: 205, content: '', id: KR2a0017_ZHSJ_016-d16p2s41}
   - {type: punctuation, offset: 205, content: (, id: KR2a0017_ZHSJ_016-bkkpn48}
+  - {type: voice, offset: 205, length: 23, name: note, id: n1}
   - {type: punctuation, offset: 215, content: ，, id: KR2a0017_ZHSJ_016-bkkpn49}
   - {type: 'tls:seg', offset: 215, content: '', id: KR2a0017_ZHSJ_016-d16p2s42}
   - {type: substitution, offset: 222, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
@@ -336,6 +337,7 @@ markers:
   - {type: punctuation, offset: 448, content: ．, id: KR2a0017_ZHSJ_016-bkkpn117}
   - {type: 'tls:seg', offset: 448, content: '', id: KR2a0017_ZHSJ_016-d16p2s91}
   - {type: punctuation, offset: 448, content: (, id: KR2a0017_ZHSJ_016-bkkpn118}
+  - {type: voice, offset: 448, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 449, content: 、, id: KR2a0017_ZHSJ_016-bkkpn119}
   - {type: punctuation, offset: 450, content: 、, id: KR2a0017_ZHSJ_016-bkkpn120}
   - {type: punctuation, offset: 451, content: 、, id: KR2a0017_ZHSJ_016-bkkpn121}
@@ -1006,6 +1008,7 @@ markers:
   - {type: punctuation, offset: 1309, content: ．, id: KR2a0017_ZHSJ_016-bkkpn331}
   - {type: 'tls:seg', offset: 1309, content: '', id: KR2a0017_ZHSJ_016-d16p21s2}
   - {type: punctuation, offset: 1309, content: (, id: KR2a0017_ZHSJ_016-bkkpn332}
+  - {type: voice, offset: 1309, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 1314, content: ，, id: KR2a0017_ZHSJ_016-bkkpn333}
   - {type: 'tls:seg', offset: 1314, content: '', id: KR2a0017_ZHSJ_016-d16p21s3}
   - {type: punctuation, offset: 1318, content: ．, id: KR2a0017_ZHSJ_016-bkkpn334}
@@ -1050,6 +1053,7 @@ markers:
   - {type: punctuation, offset: 1358, content: ．, id: KR2a0017_ZHSJ_016-bkkpn345}
   - {type: 'tls:seg', offset: 1358, content: '', id: KR2a0017_ZHSJ_016-d16p26s3}
   - {type: punctuation, offset: 1358, content: (, id: KR2a0017_ZHSJ_016-bkkpn346}
+  - {type: voice, offset: 1358, length: 7, name: note, id: n4}
   - {type: variant, offset: 1359, length: 1, content: 屬, WYG: 属}
   - {type: variant, offset: 1359, length: 1, content: 屬, krp: 属}
   - {type: variant, offset: 1364, length: 1, content: 曹, WYG: 曺}
@@ -1389,6 +1393,7 @@ markers:
   - {type: punctuation, offset: 1845, content: 、, id: KR2a0017_ZHSJ_016-bkkpn458}
   - {type: punctuation, offset: 1845, content: (, id: KR2a0017_ZHSJ_016-bkkpn459}
   - {type: punctuation, offset: 1845, content: （, id: KR2a0017_ZHSJ_016-bkkpn460}
+  - {type: voice, offset: 1845, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1846, content: ）, id: KR2a0017_ZHSJ_016-bkkpn461}
   - {type: punctuation, offset: 1846, content: ), id: KR2a0017_ZHSJ_016-bkkpn462}
   - {type: variant, offset: 1847, length: 1, content: 戶, WYG: 户}
@@ -1510,6 +1515,7 @@ markers:
   - {type: punctuation, offset: 2039, content: （, id: KR2a0017_ZHSJ_016-bkkpn504}
   - {type: variant, offset: 2039, length: 2, content: 將府, WYG: 将}
   - {type: variant, offset: 2039, length: 2, content: 將府, krp: 将}
+  - {type: voice, offset: 2039, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 2040, content: ）, id: KR2a0017_ZHSJ_016-bkkpn505}
   - {type: punctuation, offset: 2040, content: ), id: KR2a0017_ZHSJ_016-bkkpn506}
   - {type: punctuation, offset: 2040, content: 【, id: KR2a0017_ZHSJ_016-bkkpn507}
@@ -1584,6 +1590,7 @@ markers:
   - {type: punctuation, offset: 2108, content: (, id: KR2a0017_ZHSJ_016-bkkpn525}
   - {type: variant, offset: 2108, length: 1, content: 高, WYG: 髙}
   - {type: variant, offset: 2108, length: 1, content: 高, krp: 髙}
+  - {type: voice, offset: 2108, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 2113, content: ．, id: KR2a0017_ZHSJ_016-bkkpn526}
   - {type: 'tls:seg', offset: 2113, content: '', id: KR2a0017_ZHSJ_016-d16p46s7}
   - {type: punctuation, offset: 2113, content: ), id: KR2a0017_ZHSJ_016-bkkpn527}
@@ -1704,6 +1711,7 @@ markers:
   - {type: punctuation, offset: 2290, content: 】, id: KR2a0017_ZHSJ_016-bkkpn570}
   - {type: punctuation, offset: 2291, content: (, id: KR2a0017_ZHSJ_016-bkkpn571}
   - {type: punctuation, offset: 2291, content: （, id: KR2a0017_ZHSJ_016-bkkpn572}
+  - {type: voice, offset: 2291, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 2292, content: ）, id: KR2a0017_ZHSJ_016-bkkpn573}
   - {type: punctuation, offset: 2292, content: ), id: KR2a0017_ZHSJ_016-bkkpn574}
   - {type: punctuation, offset: 2292, content: ．, id: KR2a0017_ZHSJ_016-bkkpn575}
@@ -2491,4 +2499,4 @@ markers:
   - {type: page-break, offset: 3281, content: '', id: KR2a0017_WYG_016-29b, image: WYG0259/WYG0259-0207d.png}
   - {type: variant, offset: 3281, length: 0, content: '', krp: 南齊書卷十六南齊書卷十六考證百官志相國臣祖庚按即漢之相國髙帝置丞相十一年更名相國應劭曰相者助也太傅臣祖庚按周之三公也後漢惟有太傅一人謂之上公此盖遵漢制也大司馬臣宗萬按漢武帝元狩元年始置以冠将軍之號宣帝地節三年置太司馬不冠将軍哀帝建平二年冠将軍如故元夀二年去将軍位在司徒上大将軍臣祖庚按戰國時官楚虜大将軍屈丐是也漢髙帝以韓信為大将軍武帝以衞青為大将軍復置大司馬官號以冠之據此則大司馬與大将軍始分二職至武帝時合為一矣太尉司徒司空臣宗萬按漢初惟有太尉後加置大司徒大司空後漢仍之自漢歴魏皆為三公晉及江左相承不改特進臣宗萬按杜佑曰漢制諸侯功徳優盛朝廷所敬重者賜位特進位在三公下晉元康中定令特進位次諸公在開府驃騎上又按職儀曰特進以功徳特見進也諸開府儀同三司臣祖庚按同三公之三司也後漢太尉司徒司空謂之三司鄧隲為車騎将軍儀同三司自是南北因之有儀同三司之名驃騎将軍漢置位次丞相車騎将軍衛将軍位次上卿掌京師兵衞中軍将軍臣祖庚按晉武帝重兵官故軍校多選朝廷清重之士居之置中軍将軍以統宿衛七軍太常臣祖庚按漢九寺大卿之一也秦為奉常漢景帝中六年更名太常博士臣祖庚按秦官掌通古今秩比六百石員多数十人光禄勲臣祖庚按即秦郎中令漢武帝更名光禄勲邱濬曰即周官之膳夫皆以士為之秦漢時乃持㦸宿衛之官以之司膳羞則始于南北朝也光禄大夫臣祖庚按漢百官表注曰古官也杜佑曰秦時光禄勲属官有中大夫漢武帝太初元年更名光禄大夫掌議論無常事唯備顧問應對詔命所使無員後漢光禄大夫三人晉魏後以為加官又復以為禮贈之官衞尉臣祖庚按秦官漢景帝初更名中大夫令後元年復為衛尉廷尉臣祖庚按秦置漢景帝更名大理武帝復名廷尉盖漢無司冦故廷尉為重顔師古曰廷平也治獄貴平故以為號大司農臣祖庚按秦為理粟内史漢景帝更名大農令武帝改大司農少府秦官漢因之是為九卿将作大匠臣祖庚按秦有将作少府漢景帝更名将作大匠位次河南尹光武省以謁者領之章帝復置晉魏因之太僕臣祖庚按周禮有太僕下大夫周穆王置太僕正以伯冏為之秦漢以後皆因之大鴻臚臣祖庚按秦典客也漢名鴻臚景帝改大行令武帝更名大鴻臚應劭曰鴻聲也臚傳之也大長秋臣宗萬按秦之将行也漢景帝中六年更名大長秋應劭曰皇后卿也顔師古曰秋者收成之時長者恒乆之義故以為皇后官名録尚書臣祖庚按漢章帝以太傅趙熹太尉牟融並錄尚書事尚書有錄名盖自熹始尚書令臣祖庚按杜佑曰秦置漢武帝用宦者更為中書謁者令成帝省之更以士人為尚書令秩二千石吏部尚書度支尚書左民尚書都官尚書五兵尚書祠部尚書起部尚書臣祖庚按尚書之制秦漢以来有之魏置吏部左民客曺五兵度支凡五尚書晋初以左民更名三公五兵更名駕部復置屯田合以吏部客曺度支謂為六曺太康時以三公更名殿中駕部復為五兵省屯田為五尚書宋置都官為六尚書至齊别有起部而不常置也侍中臣祖庚按秦侍中本丞相史也五人徃来殿内東廂奏事謂之侍中漢為加官得入禁中應劭曰入侍天子故曰侍中奉朝請臣宗萬按馬端臨曰奉朝請無員本不為官奉朝㑹請召而已據此則志云永明中奉朝請至六百餘人非古制也祕書監臣祖庚按漢桓帝置後省魏武帝置祕書令文帝黄初初置中書令後仍改為祕書監御史中丞臣祖庚按秦官漢置兩丞一曰御史丞一曰中丞成哀間更中丞為御史長史岀外為臺主光武時復曰中丞魏初改為宫正復曰臺主尋又改為中丞宋齊以来因之謁者僕射臣祖庚按應劭曰秦官也古重武事故設主射以督之謁者臣祖庚按晉百官表注云漢皆用孝亷年五十威容嚴恪能儐賛者為之又云謁者十人掌捧詔書朝㑹則賛儐左右二衛将軍臣祖庚按漢文帝始用宋昌為衞将軍魏置中衞将軍武帝分中衞為左右衞皆掌宿衞營兵驍騎将軍臣祖庚按杜佑曰漢有驍騎将軍謂之雜號将軍後漢建武初改屯衛為驍騎魏晉以来多有改易此盖仍漢制也羽林監臣祖庚按漢武帝太初元年置名曰建章營騎後更名羽林顔師古曰如羽之疾如林之多丹陽尹臣祖庚按周官之内史也掌治京師漢武帝更名京兆尹後漢置河南尹晉太興元年改丹陽内史為尹此因之太子太傅少傅臣祖庚按漢書百官公卿表曰古官也漢官觧詁曰位次太師賈誼曰昔周成王以周公為太傅召公為太保呂望為太師又立三少皆上大夫與太子居處又續漢書百官志曰太子少傅秩二千石亦以輔導為職太子家令臣宗萬按通典曰秦官属詹事漢因之續漢書百官志曰職如司農太子僕臣宗萬按通典曰秦官漢因之後漢属少傅職如太僕太子洗馬臣宗萬按通典曰秦官漢亦曰洗馬後漢員十六人職比謁者晉有八人擬祕書郎齊置一人漢百官表注云洗馬前驅也州牧刺史臣祖庚按杜佑曰舜置十二州有牧夏為九州牧殷周八命曰牧漢元封元年置部刺史成帝時以為刺史位下大夫乃更為州牧秩真二千石位次九卿後復為刺史據此則州牧刺史一官兩名光武不委三府權歸舉刺之吏遂無州牧之名然刺史皆領州故曰州牧刺史郡太守内史臣祖庚按杜佑曰秦滅諸侯以其地為郡置守漢景帝中元二年更名太守漢置郡為諸侯王國者置内史以掌太守之任縣令相臣祖庚按杜佑曰周官有縣正各掌其縣之政令而賞罰之漢制凡縣萬户以上為令減萬户為長侯國為相南齊書卷十六考證}
   back: []
-hash: sha256:3899eb18eb7295769a7de2ef4dc90991f73f6a502670f013846671c50d73dfa0
+hash: sha256:9e998e4708ceb7bf752164438660e49cbfcfc1688e8b3b55a3a98bc8d23405e5

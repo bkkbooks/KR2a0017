@@ -500,6 +500,7 @@ markers:
   - {type: punctuation, offset: 666, content: (, id: KR2a0017_ZHSJ_041-bkkpn202}
   - {type: variant, offset: 666, length: 1, content: 呂, WYG: 吕}
   - {type: variant, offset: 666, length: 1, content: 呂, krp: 吕}
+  - {type: 'voice:problem', offset: 666, length: 3, id: KR2a0017_bkk_041-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 666, got ''('' at offset 669'}
   - {type: variant, offset: 668, length: 1, content: 愸, WYG: 􅹲}
   - {type: variant, offset: 668, length: 1, content: 愸, krp: 􅹲}
   - {type: punctuation, offset: 669, content: (, id: KR2a0017_ZHSJ_041-bkkpn203}
@@ -3772,4 +3773,4 @@ markers:
   - {type: page-break, offset: 5467, content: '', id: KR2a0017_WYG_041-18b, image: WYG0259/WYG0259-0428d.png}
   - {type: variant, offset: 5467, length: 0, content: '', krp: 南齊書卷四十一南齊書卷四十一考證張融傳九天相掩王地交氛諸本同按王疑作五周顒傳量肉揣毛以挨枝剝挨南監本作俟枝疑作披南齊書卷四十一考證}
   back: []
-hash: sha256:80dd526748a46a92419a6973fc3bf9e58527b55e8fe1f6c9398d801ef4ef08d7
+hash: sha256:184460e58ef3c67e1659617325268d4cd1ba445b1742a31451dc01775500222c

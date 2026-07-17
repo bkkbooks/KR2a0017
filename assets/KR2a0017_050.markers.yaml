@@ -389,6 +389,7 @@ markers:
   - {type: 'tls:seg', offset: 613, content: '', id: KR2a0017_ZHSJ_050-d50p7s20}
   - {type: punctuation, offset: 614, content: (, id: KR2a0017_ZHSJ_050-bkkpn119}
   - {type: punctuation, offset: 614, content: （, id: KR2a0017_ZHSJ_050-bkkpn120}
+  - {type: voice, offset: 614, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 615, content: ）, id: KR2a0017_ZHSJ_050-bkkpn121}
   - {type: punctuation, offset: 615, content: ), id: KR2a0017_ZHSJ_050-bkkpn122}
   - {type: punctuation, offset: 615, content: 【, id: KR2a0017_ZHSJ_050-bkkpn123}
@@ -1207,4 +1208,4 @@ markers:
   - {type: page-break, offset: 1937, content: '', id: KR2a0017_WYG_050-7b, image: WYG0259/WYG0259-0494d.png}
   - {type: variant, offset: 1937, length: 0, content: '', krp: 南齊書卷五十}
   back: []
-hash: sha256:6f96ec91b48215df2ccea23aa3034e3483551e8c880727e40265a4c57c0057a9
+hash: sha256:f251a4ab8f3ef48efec6839aa3d9faa8ce6d4058805c6127ee068e360ca7d3fb

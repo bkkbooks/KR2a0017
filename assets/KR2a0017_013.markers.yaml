@@ -109,6 +109,7 @@ markers:
   - {type: line-break, offset: 162, content: '', id: ZHSJ__dup2581}
   - {type: punctuation, offset: 163, content: (, id: KR2a0017_ZHSJ_013-bkkpn30}
   - {type: punctuation, offset: 163, content: （, id: KR2a0017_ZHSJ_013-bkkpn31}
+  - {type: voice, offset: 163, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 164, content: ）, id: KR2a0017_ZHSJ_013-bkkpn32}
   - {type: punctuation, offset: 164, content: ), id: KR2a0017_ZHSJ_013-bkkpn33}
   - {type: punctuation, offset: 164, content: 【, id: KR2a0017_ZHSJ_013-bkkpn34}
@@ -522,6 +523,7 @@ markers:
   - {type: punctuation, offset: 856, content: （, id: KR2a0017_ZHSJ_013-bkkpn157}
   - {type: variant, offset: 856, length: 1, content: 年, WYG: ''}
   - {type: variant, offset: 856, length: 1, content: 年, krp: ''}
+  - {type: voice, offset: 856, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 857, content: ）, id: KR2a0017_ZHSJ_013-bkkpn158}
   - {type: punctuation, offset: 857, content: ), id: KR2a0017_ZHSJ_013-bkkpn159}
   - {type: punctuation, offset: 857, content: 【, id: KR2a0017_ZHSJ_013-bkkpn160}
@@ -913,6 +915,7 @@ markers:
   - {type: punctuation, offset: 1529, content: （, id: KR2a0017_ZHSJ_013-bkkpn282}
   - {type: variant, offset: 1529, length: 1, content: 後, WYG: ''}
   - {type: variant, offset: 1529, length: 1, content: 後, krp: ''}
+  - {type: voice, offset: 1529, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1530, content: ）, id: KR2a0017_ZHSJ_013-bkkpn283}
   - {type: punctuation, offset: 1530, content: ), id: KR2a0017_ZHSJ_013-bkkpn284}
   - {type: punctuation, offset: 1530, content: 【, id: KR2a0017_ZHSJ_013-bkkpn285}
@@ -3454,4 +3457,4 @@ markers:
   - {type: page-break, offset: 5336, content: '', id: KR2a0017_WYG_013-25b, image: WYG0259/WYG0259-0155b.png}
   - {type: variant, offset: 5336, length: 0, content: '', krp: 南齊書卷十三南齊書卷十三考證天文志下八月乙亥太白從行在房南第二左股次将星臣召南按左股係左服之訛房四星主車駕南星曰左驂次左服故曰第二左服癸未熒惑犯太㣲右執法丁酉熒惑犯太㣲右執法臣永祚按癸未至丁酉計十五日不書逆行熒惑安能兩犯右執法意者先犯左執法次犯右執法耶四月戊戌熒惑犯犯字下必有闕文有流星大如三升塸或疑塸字未詳臣承蒼按南史毗騫國嘗遺扶南王純金五十人食器形如圎盤又如瓦塸名為多羅受五升又如椀者受一升塸與甌通從瓦從土其義一也天狗状如大鏡星大鏡星無考天官書原文状如大奔星為是東西有一梗雲半天爾雅釋詁梗正直也豈雲之直者耶下文又言曲向西或先直後曲故云南齊書卷十三考證}
   back: []
-hash: sha256:a8723da8843b668357f06fda618f26fe0d2ffe7427206934d7e8bd9cf9f1c65d
+hash: sha256:6700e9138dd288890dded62241ece3bb131c3f5e80b92b8c4f28d7b1ecca3be0

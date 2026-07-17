@@ -19,6 +19,7 @@ markers:
   - {type: variant, offset: 18, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 18, length: 1, content: 玄, krp: 𤣥}
   - {type: punctuation, offset: 20, content: (, id: KR2a0017_ZHSJ_027-bkkpn1}
+  - {type: voice, offset: 20, length: 3, name: note, id: n1}
   - {type: variant, offset: 21, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 21, length: 1, content: 玄, krp: 𤣥}
   - {type: punctuation, offset: 23, content: ), id: KR2a0017_ZHSJ_027-bkkpn2}
@@ -477,6 +478,7 @@ markers:
   - {type: punctuation, offset: 868, content: （, id: KR2a0017_ZHSJ_027-bkkpn150}
   - {type: variant, offset: 868, length: 1, content: 民, WYG: ''}
   - {type: variant, offset: 868, length: 1, content: 民, krp: ''}
+  - {type: voice, offset: 868, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 869, content: ）, id: KR2a0017_ZHSJ_027-bkkpn151}
   - {type: punctuation, offset: 869, content: ), id: KR2a0017_ZHSJ_027-bkkpn152}
   - {type: punctuation, offset: 869, content: 【, id: KR2a0017_ZHSJ_027-bkkpn153}
@@ -520,6 +522,7 @@ markers:
   - {type: punctuation, offset: 948, content: （十）, id: KR2a0017_ZHSJ_027-bkkpn171}
   - {type: punctuation, offset: 948, content: ), id: KR2a0017_ZHSJ_027-bkkpn172}
   - {type: punctuation, offset: 948, content: 【, id: KR2a0017_ZHSJ_027-bkkpn173}
+  - {type: voice, offset: 948, length: 0, name: note, id: n3}
   - {type: punctuation, offset: 949, content: 】, id: KR2a0017_ZHSJ_027-bkkpn174}
   - {type: punctuation, offset: 954, content: ，, id: KR2a0017_ZHSJ_027-bkkpn175}
   - {type: punctuation, offset: 954, content: 〔九〕, id: KR2a0017_ZHSJ_027-bkkpn176}
@@ -684,6 +687,7 @@ markers:
   - {type: punctuation, offset: 1237, content: (, id: KR2a0017_ZHSJ_027-bkkpn236}
   - {type: variant, offset: 1237, length: 1, content: 葬, WYG: ''}
   - {type: variant, offset: 1237, length: 1, content: 葬, krp: ''}
+  - {type: voice, offset: 1237, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1238, content: ), id: KR2a0017_ZHSJ_027-bkkpn237}
   - {type: punctuation, offset: 1238, content: ）, id: KR2a0017_ZHSJ_027-bkkpn238}
   - {type: punctuation, offset: 1238, content: 【, id: KR2a0017_ZHSJ_027-bkkpn239}
@@ -702,6 +706,7 @@ markers:
   - {type: punctuation, offset: 1255, content: (, id: KR2a0017_ZHSJ_027-bkkpn246}
   - {type: variant, offset: 1255, length: 1, content: 而, WYG: ''}
   - {type: variant, offset: 1255, length: 1, content: 而, krp: ''}
+  - {type: voice, offset: 1255, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1256, content: ), id: KR2a0017_ZHSJ_027-bkkpn247}
   - {type: punctuation, offset: 1256, content: ）, id: KR2a0017_ZHSJ_027-bkkpn248}
   - {type: punctuation, offset: 1256, content: 【, id: KR2a0017_ZHSJ_027-bkkpn249}
@@ -1375,6 +1380,7 @@ markers:
   - {type: punctuation, offset: 2336, content: （, id: KR2a0017_ZHSJ_027-bkkpn492}
   - {type: variant, offset: 2336, length: 1, content: 祖, WYG: 子}
   - {type: variant, offset: 2336, length: 1, content: 祖, krp: 子}
+  - {type: voice, offset: 2336, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 2337, content: ）, id: KR2a0017_ZHSJ_027-bkkpn493}
   - {type: punctuation, offset: 2337, content: ), id: KR2a0017_ZHSJ_027-bkkpn494}
   - {type: variant, offset: 2337, length: 1, content: 初, WYG: 劭}
@@ -1571,6 +1577,7 @@ markers:
   - {type: variant, offset: 2669, length: 1, content: 敕, krp: 敇}
   - {type: punctuation, offset: 2674, content: (, id: KR2a0017_ZHSJ_027-bkkpn579}
   - {type: punctuation, offset: 2674, content: （, id: KR2a0017_ZHSJ_027-bkkpn580}
+  - {type: voice, offset: 2674, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 2675, content: ）, id: KR2a0017_ZHSJ_027-bkkpn581}
   - {type: punctuation, offset: 2675, content: ), id: KR2a0017_ZHSJ_027-bkkpn582}
   - {type: punctuation, offset: 2675, content: 【, id: KR2a0017_ZHSJ_027-bkkpn583}
@@ -2055,6 +2062,7 @@ markers:
   - {type: punctuation, offset: 3557, content: 、, id: KR2a0017_ZHSJ_027-bkkpn770}
   - {type: punctuation, offset: 3557, content: (, id: KR2a0017_ZHSJ_027-bkkpn771}
   - {type: punctuation, offset: 3557, content: （, id: KR2a0017_ZHSJ_027-bkkpn772}
+  - {type: voice, offset: 3557, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 3558, content: ）, id: KR2a0017_ZHSJ_027-bkkpn773}
   - {type: punctuation, offset: 3558, content: ), id: KR2a0017_ZHSJ_027-bkkpn774}
   - {type: punctuation, offset: 3558, content: 【, id: KR2a0017_ZHSJ_027-bkkpn775}
@@ -2736,6 +2744,7 @@ markers:
   - {type: punctuation, offset: 4741, content: 、, id: KR2a0017_ZHSJ_027-bkkpn1046}
   - {type: punctuation, offset: 4744, content: (, id: KR2a0017_ZHSJ_027-bkkpn1047}
   - {type: punctuation, offset: 4744, content: （, id: KR2a0017_ZHSJ_027-bkkpn1048}
+  - {type: voice, offset: 4744, length: 1, name: note, id: n9}
   - {type: punctuation, offset: 4745, content: ）, id: KR2a0017_ZHSJ_027-bkkpn1049}
   - {type: punctuation, offset: 4745, content: ), id: KR2a0017_ZHSJ_027-bkkpn1050}
   - {type: punctuation, offset: 4745, content: 【, id: KR2a0017_ZHSJ_027-bkkpn1051}
@@ -3259,4 +3268,4 @@ markers:
   - {type: page-break, offset: 5704, content: '', id: KR2a0017_WYG_027-20b, image: WYG0259/WYG0259-0310d.png}
   - {type: variant, offset: 5704, length: 0, content: '', krp: 南齊書卷二十七南齊書卷二十七考證劉懐珍傳亾命司馬順則聚黨東揚州臣承蒼按宋書州郡志孝建元年分揚州之㑹稽東陽新安永嘉臨海五郡為東揚州此司馬順則作亂在元嘉二十八年不應即有東揚州之稱未詳所謂夢見黄衣老公曰可取南山竹笋食之疾立可愈臣承蒼按南史夢見黄衣老公與藥靈哲驚覺于枕間得之藥似竹根于齋前種葉似􅝀茨與此傳所載小異李安民傳安民按南史民作人城局參軍王逈諸本同王逈南史作王回吳興有項羽神䕶郡聼事太守到郡必須祀以軛下牛安民奉佛法不與神牛著屐上聼事及安民卒世以神為祟臣祖庚按宋書孔季恭傳為吳興太守云項羽神居郡聼事二千石至常避之季恭居郡聼事竟無害也梁書蕭琛傳遷吳興太守郡有項王廟土民名為憤王甚有靈驗遂祀於郡聼事琛至徙神還廟南史蕭猷傳為吳興太守與楚王廟神交飲祈禱必從後為益州刺史齊茍兒反乃遥禱請救有田老逢數百騎如風言吳興楚王來救是日猷大破茍兒又南史蕭惠明傳為吳興太守惠明謂綱紀曰孔季恭嘗為此郡未聞有災遂盛設筵榻接賔數日見一人長丈餘張弓挟矢向惠明既而不見因發背旬日而卒又蕭惠荃傳惠基弟惠休永元元年徙吳興太守徴為右僕射吳興項羽神舊酷烈世人云惠休事神謹故得美還據此一項羽神從之則吉逆之則凶一若人之死生禍福皆神操其柄作史者每鋪張而樂道之難免近誣之失矣南齊書卷二十七考證}
   back: []
-hash: sha256:5058257eb70fb056528c5a2b40fc9d792ae6aef2e9bcb01b40d58d65cbb41c2b
+hash: sha256:78ac8397a6d35103a400bbdfe920732b048084afa37e12cbc2ebb4b357be7bce

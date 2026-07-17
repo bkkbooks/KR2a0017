@@ -570,6 +570,7 @@ markers:
   - {type: punctuation, offset: 1061, content: （, id: KR2a0017_ZHSJ_024-bkkpn212}
   - {type: variant, offset: 1061, length: 1, content: 紹, WYG: ''}
   - {type: variant, offset: 1061, length: 1, content: 紹, krp: ''}
+  - {type: voice, offset: 1061, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1062, content: ）, id: KR2a0017_ZHSJ_024-bkkpn213}
   - {type: punctuation, offset: 1062, content: ), id: KR2a0017_ZHSJ_024-bkkpn214}
   - {type: punctuation, offset: 1062, content: 【, id: KR2a0017_ZHSJ_024-bkkpn215}
@@ -907,6 +908,7 @@ markers:
   - {type: substitution, offset: 1568, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 1572, content: (, id: KR2a0017_ZHSJ_024-bkkpn317}
   - {type: punctuation, offset: 1572, content: （, id: KR2a0017_ZHSJ_024-bkkpn318}
+  - {type: voice, offset: 1572, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1573, content: ）, id: KR2a0017_ZHSJ_024-bkkpn319}
   - {type: punctuation, offset: 1573, content: ), id: KR2a0017_ZHSJ_024-bkkpn320}
   - {type: punctuation, offset: 1574, content: 【, id: KR2a0017_ZHSJ_024-bkkpn321}
@@ -980,6 +982,7 @@ markers:
   - {type: punctuation, offset: 1717, content: （, id: KR2a0017_ZHSJ_024-bkkpn341}
   - {type: variant, offset: 1717, length: 1, content: 精, WYG: ''}
   - {type: variant, offset: 1717, length: 1, content: 精, krp: ''}
+  - {type: voice, offset: 1717, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1718, content: ）, id: KR2a0017_ZHSJ_024-bkkpn342}
   - {type: punctuation, offset: 1718, content: ), id: KR2a0017_ZHSJ_024-bkkpn343}
   - {type: punctuation, offset: 1718, content: 【, id: KR2a0017_ZHSJ_024-bkkpn344}
@@ -1939,6 +1942,7 @@ markers:
   - {type: variant, offset: 3407, length: 1, content: 閒, WYG: ''}
   - {type: variant, offset: 3407, length: 1, content: 閒, krp: ''}
   - {type: substitution, offset: 3407, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
+  - {type: voice, offset: 3407, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3408, content: ）, id: KR2a0017_ZHSJ_024-bkkpn720}
   - {type: punctuation, offset: 3408, content: ), id: KR2a0017_ZHSJ_024-bkkpn721}
   - {type: punctuation, offset: 3408, content: 【, id: KR2a0017_ZHSJ_024-bkkpn722}
@@ -2180,6 +2184,7 @@ markers:
   - {type: variant, offset: 3827, length: 1, content: 增, krp: 増}
   - {type: punctuation, offset: 3829, content: (, id: KR2a0017_ZHSJ_024-bkkpn811}
   - {type: punctuation, offset: 3829, content: （, id: KR2a0017_ZHSJ_024-bkkpn812}
+  - {type: voice, offset: 3829, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 3830, content: ）, id: KR2a0017_ZHSJ_024-bkkpn813}
   - {type: punctuation, offset: 3830, content: ), id: KR2a0017_ZHSJ_024-bkkpn814}
   - {type: variant, offset: 3832, length: 1, content: 戶, WYG: 户}
@@ -2606,4 +2611,4 @@ markers:
   - {type: page-break, offset: 4546, content: '', id: KR2a0017_WYG_024-15b, image: WYG0259/WYG0259-0277b.png}
   - {type: variant, offset: 4546, length: 0, content: '', krp: 南齊書卷二十四南齊書卷二十四考證栁世隆傳帝曰三公一人是將来事也臣祖庚按南史云帝謂元景曰此児將来復是三公一人盖言世隆將来是三公中一人也若如傳言似未明晰當南史為優及卒墓正取其坐處焉臣祖庚按南史云墓工圖墓正取其坐處焉文義較眀此省墓工圖三字未合南齊書卷二十四考證}
   back: []
-hash: sha256:cdaac6809ba381fa97b8c8ad5e0b122796b97595792081f93039354486d94356
+hash: sha256:fb7d407481865baecae3f3320ccee33d57b48854e552ad41b8efbf63ed8278e0

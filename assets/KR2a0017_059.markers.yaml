@@ -88,6 +88,7 @@ markers:
   - {type: variant, offset: 131, length: 1, content: 將, krp: 将}
   - {type: punctuation, offset: 135, content: (, id: KR2a0017_ZHSJ_059-bkkpn22}
   - {type: punctuation, offset: 135, content: （, id: KR2a0017_ZHSJ_059-bkkpn23}
+  - {type: voice, offset: 135, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 136, content: ）, id: KR2a0017_ZHSJ_059-bkkpn24}
   - {type: punctuation, offset: 136, content: ), id: KR2a0017_ZHSJ_059-bkkpn25}
   - {type: punctuation, offset: 136, content: 【, id: KR2a0017_ZHSJ_059-bkkpn26}
@@ -384,6 +385,7 @@ markers:
   - {type: 'tls:seg', offset: 591, content: '', id: KR2a0017_ZHSJ_059-d59p13s11}
   - {type: punctuation, offset: 593, content: (, id: KR2a0017_ZHSJ_059-bkkpn128}
   - {type: punctuation, offset: 593, content: （, id: KR2a0017_ZHSJ_059-bkkpn129}
+  - {type: voice, offset: 593, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 594, content: ）, id: KR2a0017_ZHSJ_059-bkkpn130}
   - {type: punctuation, offset: 594, content: ), id: KR2a0017_ZHSJ_059-bkkpn131}
   - {type: punctuation, offset: 594, content: 【, id: KR2a0017_ZHSJ_059-bkkpn132}
@@ -460,6 +462,7 @@ markers:
   - {type: 'tls:seg', offset: 678, content: '', id: KR2a0017_ZHSJ_059-d59p17s2}
   - {type: punctuation, offset: 680, content: (, id: KR2a0017_ZHSJ_059-bkkpn157}
   - {type: punctuation, offset: 680, content: （, id: KR2a0017_ZHSJ_059-bkkpn158}
+  - {type: voice, offset: 680, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 681, content: ）, id: KR2a0017_ZHSJ_059-bkkpn159}
   - {type: punctuation, offset: 681, content: ), id: KR2a0017_ZHSJ_059-bkkpn160}
   - {type: punctuation, offset: 681, content: 【, id: KR2a0017_ZHSJ_059-bkkpn161}
@@ -472,6 +475,7 @@ markers:
   - {type: 'tls:seg', offset: 691, content: '', id: KR2a0017_ZHSJ_059-d59p17s4}
   - {type: punctuation, offset: 692, content: (, id: KR2a0017_ZHSJ_059-bkkpn165}
   - {type: punctuation, offset: 692, content: （, id: KR2a0017_ZHSJ_059-bkkpn166}
+  - {type: voice, offset: 692, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 693, content: ）, id: KR2a0017_ZHSJ_059-bkkpn167}
   - {type: punctuation, offset: 693, content: ), id: KR2a0017_ZHSJ_059-bkkpn168}
   - {type: punctuation, offset: 693, content: 【, id: KR2a0017_ZHSJ_059-bkkpn169}
@@ -1613,6 +1617,7 @@ markers:
   - {type: punctuation, offset: 2824, content: （, id: KR2a0017_ZHSJ_059-bkkpn583}
   - {type: variant, offset: 2824, length: 1, content: 勒, WYG: ''}
   - {type: variant, offset: 2824, length: 1, content: 勒, krp: ''}
+  - {type: voice, offset: 2824, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 2825, content: ）, id: KR2a0017_ZHSJ_059-bkkpn584}
   - {type: punctuation, offset: 2825, content: ), id: KR2a0017_ZHSJ_059-bkkpn585}
   - {type: punctuation, offset: 2825, content: 【, id: KR2a0017_ZHSJ_059-bkkpn586}
@@ -1979,6 +1984,7 @@ markers:
   - {type: punctuation, offset: 3569, content: （, id: KR2a0017_ZHSJ_059-bkkpn737}
   - {type: variant, offset: 3569, length: 1, content: 猷, WYG: ''}
   - {type: variant, offset: 3569, length: 1, content: 猷, krp: ''}
+  - {type: voice, offset: 3569, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 3570, content: ）, id: KR2a0017_ZHSJ_059-bkkpn738}
   - {type: punctuation, offset: 3570, content: ), id: KR2a0017_ZHSJ_059-bkkpn739}
   - {type: page-break, offset: 3570, content: '', id: KR2a0017_WYG_059-12a, image: WYG0259/WYG0259-0580c.png}
@@ -2265,6 +2271,7 @@ markers:
   - {type: 'tls:seg', offset: 4151, content: '', id: KR2a0017_ZHSJ_059-d59p55s23}
   - {type: punctuation, offset: 4154, content: (, id: KR2a0017_ZHSJ_059-bkkpn879}
   - {type: punctuation, offset: 4154, content: （, id: KR2a0017_ZHSJ_059-bkkpn880}
+  - {type: voice, offset: 4154, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 4155, content: ）, id: KR2a0017_ZHSJ_059-bkkpn881}
   - {type: punctuation, offset: 4155, content: ), id: KR2a0017_ZHSJ_059-bkkpn882}
   - {type: punctuation, offset: 4155, content: 【, id: KR2a0017_ZHSJ_059-bkkpn883}
@@ -2335,6 +2342,7 @@ markers:
   - {type: punctuation, offset: 4236, content: （, id: KR2a0017_ZHSJ_059-bkkpn911}
   - {type: variant, offset: 4236, length: 1, content: 權, WYG: ''}
   - {type: variant, offset: 4236, length: 1, content: 權, krp: ''}
+  - {type: voice, offset: 4236, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 4237, content: ）, id: KR2a0017_ZHSJ_059-bkkpn912}
   - {type: punctuation, offset: 4237, content: ), id: KR2a0017_ZHSJ_059-bkkpn913}
   - {type: punctuation, offset: 4237, content: 【, id: KR2a0017_ZHSJ_059-bkkpn914}
@@ -2365,4 +2373,4 @@ markers:
   - {type: page-break, offset: 4254, content: '', id: KR2a0017_WYG_059-15b, image: WYG0259/WYG0259-0582b.png}
   - {type: variant, offset: 4254, length: 0, content: '', krp: 南齊書卷五十九南齊書卷五十九考證芮芮虜傳臣祖庚按芮芮即柔然杜佑曰柔然後魏大武以其無知狀類于蟲故改其號曰蠕蠕宋齊謂之芮芮河南傳又卿乃誠遥著乃誠南監本作欵誠按乃誠六朝人多用之晉書劉琨傳即有懷其乃誠之語聚衆茄蘆茄南史作葭茄蘆鎮主文慶文慶南史作文度宕昌傳臣祖庚按北史宕昌蓋三苖之𦙍杜佑曰其界自仇池以西東西千里席水以南南北八百里地多山阜南齊書卷五十九考證}
   back: []
-hash: sha256:bb5786fb9e4d7de8520c7af65ddf399d849cb9d29da9701e8b52ab1d75114511
+hash: sha256:e65d51793a4053a254e1f1d10c034a4bd91eab61a342dcf11ac6890238ca6a6c

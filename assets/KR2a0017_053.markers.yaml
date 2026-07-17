@@ -651,6 +651,7 @@ markers:
   - {type: punctuation, offset: 954, content: （, id: KR2a0017_ZHSJ_053-bkkpn216}
   - {type: variant, offset: 954, length: 1, content: 向, WYG: ''}
   - {type: variant, offset: 954, length: 1, content: 向, krp: ''}
+  - {type: voice, offset: 954, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 955, content: ）, id: KR2a0017_ZHSJ_053-bkkpn217}
   - {type: punctuation, offset: 955, content: ), id: KR2a0017_ZHSJ_053-bkkpn218}
   - {type: punctuation, offset: 955, content: 【, id: KR2a0017_ZHSJ_053-bkkpn219}
@@ -2261,4 +2262,4 @@ markers:
   - {type: page-break, offset: 3621, content: '', id: KR2a0017_WYG_053-13b, image: WYG0259/WYG0259-0524d.png}
   - {type: variant, offset: 3621, length: 0, content: '', krp: 南齊書卷五十三南齊書卷五十三考證裴昭明傳我不諳書諳南史作讀沈憲傳少為憲從伯領軍寅之所知臣承蒼按寅之卽演之梁時以演與武帝諱同音故去水旁為寅如張縯止稱張寅亦其例也沈演之以元嘉二十一年為中領軍事見宋書本傳南齊書卷五十三考證}
   back: []
-hash: sha256:39044ef51d31c56f0ae616642bdb0a74ce33f6cadfe480ae3e8ea45aa9942334
+hash: sha256:d9525383586142944a3c3d924983f6deeeed186ea779abc59156ec8ba0794cc4

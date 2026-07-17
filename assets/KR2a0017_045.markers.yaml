@@ -19,6 +19,7 @@ markers:
   - {type: punctuation, offset: 27, content: (, id: KR2a0017_ZHSJ_045-bkkpn1}
   - {type: variant, offset: 27, length: 1, content: 遙, WYG: 遥}
   - {type: variant, offset: 27, length: 1, content: 遙, krp: 遥}
+  - {type: voice, offset: 27, length: 6, name: note, id: n1}
   - {type: indent, offset: 29, content: 　, id: KR2a0017_ZHSJ_045-bkkind2}
   - {type: variant, offset: 29, length: 1, content: 遙, WYG: 遥昌遥}
   - {type: variant, offset: 29, length: 1, content: 遙, krp: 遥昌遥}
@@ -250,6 +251,7 @@ markers:
   - {type: 'tls:seg', offset: 424, content: '', id: KR2a0017_ZHSJ_045-d45p7s9}
   - {type: punctuation, offset: 428, content: (, id: KR2a0017_ZHSJ_045-bkkpn86}
   - {type: punctuation, offset: 428, content: （, id: KR2a0017_ZHSJ_045-bkkpn87}
+  - {type: voice, offset: 428, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 429, content: ）, id: KR2a0017_ZHSJ_045-bkkpn88}
   - {type: punctuation, offset: 429, content: ), id: KR2a0017_ZHSJ_045-bkkpn89}
   - {type: punctuation, offset: 429, content: 【, id: KR2a0017_ZHSJ_045-bkkpn90}
@@ -346,6 +348,7 @@ markers:
   - {type: punctuation, offset: 575, content: 、, id: KR2a0017_ZHSJ_045-bkkpn123}
   - {type: punctuation, offset: 576, content: (, id: KR2a0017_ZHSJ_045-bkkpn124}
   - {type: punctuation, offset: 576, content: （, id: KR2a0017_ZHSJ_045-bkkpn125}
+  - {type: voice, offset: 576, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 577, content: ）, id: KR2a0017_ZHSJ_045-bkkpn126}
   - {type: punctuation, offset: 577, content: ), id: KR2a0017_ZHSJ_045-bkkpn127}
   - {type: line-break, offset: 578, content: '', id: ZHSJ__dup8998}
@@ -419,6 +422,7 @@ markers:
   - {type: 'tls:seg', offset: 685, content: '', id: KR2a0017_ZHSJ_045-d45p9s13}
   - {type: punctuation, offset: 691, content: (, id: KR2a0017_ZHSJ_045-bkkpn152}
   - {type: punctuation, offset: 691, content: （, id: KR2a0017_ZHSJ_045-bkkpn153}
+  - {type: voice, offset: 691, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 692, content: ）, id: KR2a0017_ZHSJ_045-bkkpn154}
   - {type: punctuation, offset: 692, content: ), id: KR2a0017_ZHSJ_045-bkkpn155}
   - {type: punctuation, offset: 692, content: 【, id: KR2a0017_ZHSJ_045-bkkpn156}
@@ -1231,6 +1235,7 @@ markers:
   - {type: punctuation, offset: 1994, content: ), id: KR2a0017_ZHSJ_045-bkkpn433}
   - {type: variant, offset: 1994, length: 0, content: '', WYG: 元}
   - {type: variant, offset: 1994, length: 0, content: '', krp: 元}
+  - {type: voice, offset: 1994, length: 0, name: note, id: n5}
   - {type: punctuation, offset: 1996, content: ，, id: KR2a0017_ZHSJ_045-bkkpn434}
   - {type: punctuation, offset: 1996, content: 〔一四〕, id: KR2a0017_ZHSJ_045-bkkpn435}
   - {type: 'tls:seg', offset: 1996, content: '', id: KR2a0017_ZHSJ_045-d45p18s7}
@@ -1392,6 +1397,7 @@ markers:
   - {type: punctuation, offset: 2215, content: （, id: KR2a0017_ZHSJ_045-bkkpn500}
   - {type: variant, offset: 2215, length: 1, content: 王, WYG: ''}
   - {type: variant, offset: 2215, length: 1, content: 王, krp: ''}
+  - {type: voice, offset: 2215, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 2216, content: ）, id: KR2a0017_ZHSJ_045-bkkpn501}
   - {type: punctuation, offset: 2216, content: ), id: KR2a0017_ZHSJ_045-bkkpn502}
   - {type: punctuation, offset: 2216, content: 【, id: KR2a0017_ZHSJ_045-bkkpn503}
@@ -1549,6 +1555,7 @@ markers:
   - {type: 'tls:seg', offset: 2447, content: '', id: KR2a0017_ZHSJ_045-d45p20s10}
   - {type: punctuation, offset: 2449, content: (, id: KR2a0017_ZHSJ_045-bkkpn573}
   - {type: punctuation, offset: 2449, content: （, id: KR2a0017_ZHSJ_045-bkkpn574}
+  - {type: voice, offset: 2449, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 2450, content: ）, id: KR2a0017_ZHSJ_045-bkkpn575}
   - {type: punctuation, offset: 2450, content: ), id: KR2a0017_ZHSJ_045-bkkpn576}
   - {type: punctuation, offset: 2450, content: 【, id: KR2a0017_ZHSJ_045-bkkpn577}
@@ -1591,6 +1598,7 @@ markers:
   - {type: punctuation, offset: 2496, content: （, id: KR2a0017_ZHSJ_045-bkkpn593}
   - {type: variant, offset: 2496, length: 2, content: 美無, WYG: ''}
   - {type: variant, offset: 2496, length: 2, content: 美無, krp: ''}
+  - {type: voice, offset: 2496, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 2498, content: ）, id: KR2a0017_ZHSJ_045-bkkpn594}
   - {type: punctuation, offset: 2498, content: ), id: KR2a0017_ZHSJ_045-bkkpn595}
   - {type: line-break, offset: 2498, content: '', id: ZHSJ__dup9064}
@@ -2167,4 +2175,4 @@ markers:
   - {type: page-break, offset: 3427, content: '', id: KR2a0017_WYG_045-12b, image: WYG0259/WYG0259-0459b.png}
   - {type: variant, offset: 3427, length: 0, content: '', krp: 南齊書卷四十五南齊書卷四十五考證宗室遥昌傳興元元年諸本同臣承蒼按齊世無興元年號海陵王立改隆昌元年為延興元年冬十月以新除黄門郎為郢州刺史興元當即延興之訛南齊書卷四十五考證}
   back: []
-hash: sha256:8781e23516375b4f477cfefa0fa74a25597738932f9964239381a0b10d126de6
+hash: sha256:db8d15ffa4e6d665e184ad02db86180868eb96a0c702659091a5540cdf173f9d

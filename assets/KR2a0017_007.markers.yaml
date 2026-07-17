@@ -63,6 +63,7 @@ markers:
   - {type: punctuation, offset: 72, content: （, id: KR2a0017_ZHSJ_007-bkkpn12}
   - {type: variant, offset: 72, length: 1, content: 賊, WYG: ''}
   - {type: variant, offset: 72, length: 1, content: 賊, krp: ''}
+  - {type: voice, offset: 72, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 73, content: ）, id: KR2a0017_ZHSJ_007-bkkpn13}
   - {type: punctuation, offset: 73, content: ), id: KR2a0017_ZHSJ_007-bkkpn14}
   - {type: punctuation, offset: 73, content: 【, id: KR2a0017_ZHSJ_007-bkkpn15}
@@ -282,6 +283,7 @@ markers:
   - {type: 'tls:seg', offset: 414, content: '', id: KR2a0017_ZHSJ_007-d7p13s4}
   - {type: punctuation, offset: 415, content: (, id: KR2a0017_ZHSJ_007-bkkpn73}
   - {type: punctuation, offset: 415, content: （, id: KR2a0017_ZHSJ_007-bkkpn74}
+  - {type: voice, offset: 415, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 416, content: ）, id: KR2a0017_ZHSJ_007-bkkpn75}
   - {type: punctuation, offset: 416, content: ), id: KR2a0017_ZHSJ_007-bkkpn76}
   - {type: punctuation, offset: 416, content: 【, id: KR2a0017_ZHSJ_007-bkkpn77}
@@ -537,6 +539,7 @@ markers:
   - {type: 'tls:seg', offset: 873, content: '', id: KR2a0017_ZHSJ_007-d7p21s5}
   - {type: punctuation, offset: 873, content: (, id: KR2a0017_ZHSJ_007-bkkpn148}
   - {type: punctuation, offset: 873, content: （, id: KR2a0017_ZHSJ_007-bkkpn149}
+  - {type: voice, offset: 873, length: 3, name: note, id: n3}
   - {type: line-break, offset: 874, content: '', id: ZHSJ__dup1095}
   - {type: punctuation, offset: 876, content: ）, id: KR2a0017_ZHSJ_007-bkkpn150}
   - {type: punctuation, offset: 876, content: ), id: KR2a0017_ZHSJ_007-bkkpn151}
@@ -2675,9 +2678,10 @@ markers:
   - {type: page-break, offset: 4488, content: '', id: KR2a0017_WYG_007-16b, image: WYG0259/WYG0259-0074b.png}
   - {type: variant, offset: 4488, length: 3, content: 青𦕎疑, krp: 南齊書卷七南齊書卷七考證東昬侯本紀永元元年二月太尉陳顯達敗績於馬圈臣宗萬按杜佑曰馬圏城去襄陽三百里在今南陽郡界秺縣北又曰後魏馬圏鎮漢湼陽縣地二年四月乙夘遣中領軍王瑩率衆軍屯北籬門臣祖庚按崔慧景傳帝遣右衛将軍左興盛率臺内三萬人拒慧景於北籬門與紀異十二月梁王起義兵於襄陽臣祖庚按通鑑云十一月乙巳衍集僚佐謂曰當與卿等共除之是日建牙集衆又云帝遣劉山陽将兵就蕭穎胄襲襄陽然則是時梁王尚未起義矣故考異曰齊紀誤也以武烈将軍胡元進為廣州刺史武烈諸本皆作威烈臣承蒼按宋百官志有武烈将軍無威烈将軍齊世官名多循宋制今定作武三年三月丁未南康王寳融即皇帝位臣祖庚按和帝紀三年正月乙巳王受命大赦據此則正月乙己南康王已即位江陵矣此云三月丁未者通鑑考異曰盖是日建康始聞之耳南齊書卷七考證}
   - {type: punctuation, offset: 4490, content: (, id: KR2a0017_ZHSJ_007-bkkpn852}
+  - {type: voice, offset: 4490, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4491, content: ), id: KR2a0017_ZHSJ_007-bkkpn853}
   - {type: xml-element, offset: 4491, content: '', id: KR2a0017_ZHSJ_007-bkkxmlele108}
   - {type: xml-element, offset: 4491, content: '', id: KR2a0017_ZHSJ_007-d7n1}
   - {type: xml-element, offset: 4491, content: '', id: KR2a0017_ZHSJ_007-d7n1_end}
   back: []
-hash: sha256:a323a84a41fb5b8bbedb1fd655a4419dae4a6226b4fe71dad62582093ebcb6ee
+hash: sha256:1a8f57dff6157e57bfda0b9f06d6f488aaa1e5777cd30911f819c6457a0e4ebd

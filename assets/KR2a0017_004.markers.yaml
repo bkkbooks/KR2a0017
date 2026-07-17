@@ -469,6 +469,7 @@ markers:
   - {type: 'tls:seg', offset: 818, content: '', id: KR2a0017_ZHSJ_004-d4p7s38}
   - {type: punctuation, offset: 820, content: (, id: KR2a0017_ZHSJ_004-bkkpn153}
   - {type: punctuation, offset: 820, content: （, id: KR2a0017_ZHSJ_004-bkkpn154}
+  - {type: voice, offset: 820, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 821, content: ）, id: KR2a0017_ZHSJ_004-bkkpn155}
   - {type: punctuation, offset: 821, content: ), id: KR2a0017_ZHSJ_004-bkkpn156}
   - {type: line-break, offset: 821, content: '', id: ZHSJ__dup800}
@@ -512,6 +513,7 @@ markers:
   - {type: punctuation, offset: 870, content: （, id: KR2a0017_ZHSJ_004-bkkpn173}
   - {type: variant, offset: 870, length: 1, content: 天, WYG: ''}
   - {type: variant, offset: 870, length: 1, content: 天, krp: ''}
+  - {type: voice, offset: 870, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 871, content: ）, id: KR2a0017_ZHSJ_004-bkkpn174}
   - {type: punctuation, offset: 871, content: ), id: KR2a0017_ZHSJ_004-bkkpn175}
   - {type: punctuation, offset: 872, content: 【, id: KR2a0017_ZHSJ_004-bkkpn176}
@@ -1098,6 +1100,7 @@ markers:
   - {type: punctuation, offset: 1851, content: （, id: KR2a0017_ZHSJ_004-bkkpn374}
   - {type: variant, offset: 1851, length: 2, content: 相衵, WYG: 袒}
   - {type: variant, offset: 1851, length: 2, content: 相衵, krp: 袒}
+  - {type: voice, offset: 1851, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1852, content: ）, id: KR2a0017_ZHSJ_004-bkkpn375}
   - {type: punctuation, offset: 1852, content: ), id: KR2a0017_ZHSJ_004-bkkpn376}
   - {type: punctuation, offset: 1852, content: 【, id: KR2a0017_ZHSJ_004-bkkpn377}
@@ -1504,9 +1507,10 @@ markers:
   - {type: page-break, offset: 2428, content: '', id: KR2a0017_WYG_004-9b, image: WYG0259/WYG0259-0055b.png}
   - {type: variant, offset: 2428, length: 2, content: 屯疑, krp: 􅕆南齊書卷四考證}
   - {type: punctuation, offset: 2429, content: (, id: KR2a0017_ZHSJ_004-bkkpn499}
+  - {type: voice, offset: 2429, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2430, content: ), id: KR2a0017_ZHSJ_004-bkkpn500}
   - {type: xml-element, offset: 2430, content: '', id: KR2a0017_ZHSJ_004-bkkxmlele38}
   - {type: xml-element, offset: 2430, content: '', id: KR2a0017_ZHSJ_004-d4n1}
   - {type: xml-element, offset: 2430, content: '', id: KR2a0017_ZHSJ_004-d4n1_end}
   back: []
-hash: sha256:e60ce2197355568aff1606a73dea86e0a6b7eb387111c20c72091a8bde144574
+hash: sha256:dffc2e562e87aa0673c63246d0ba9d1f40cd1b7819f2db644fcfaf50c91c915e

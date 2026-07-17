@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 7, length: 0, content: '', krp: 梁蕭子顯撰}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup5025}
   - {type: punctuation, offset: 13, content: (, id: KR2a0017_ZHSJ_023-bkkpn1}
+  - {type: voice, offset: 13, length: 5, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0017_ZHSJ_023-bkkind1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0017_ZHSJ_023-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0017_ZHSJ_023-bkkind2}
@@ -204,6 +205,7 @@ markers:
   - {type: punctuation, offset: 302, content: （, id: KR2a0017_ZHSJ_023-bkkpn69}
   - {type: variant, offset: 302, length: 1, content: 夙, WYG: ''}
   - {type: variant, offset: 302, length: 1, content: 夙, krp: ''}
+  - {type: voice, offset: 302, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 303, content: ）, id: KR2a0017_ZHSJ_023-bkkpn70}
   - {type: punctuation, offset: 303, content: ), id: KR2a0017_ZHSJ_023-bkkpn71}
   - {type: punctuation, offset: 303, content: 【, id: KR2a0017_ZHSJ_023-bkkpn72}
@@ -1182,6 +1184,7 @@ markers:
   - {type: 'tls:seg', offset: 1762, content: '', id: KR2a0017_ZHSJ_023-d23p15s19}
   - {type: punctuation, offset: 1766, content: (, id: KR2a0017_ZHSJ_023-bkkpn440}
   - {type: punctuation, offset: 1766, content: （, id: KR2a0017_ZHSJ_023-bkkpn441}
+  - {type: voice, offset: 1766, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1767, content: ）, id: KR2a0017_ZHSJ_023-bkkpn442}
   - {type: punctuation, offset: 1767, content: ), id: KR2a0017_ZHSJ_023-bkkpn443}
   - {type: punctuation, offset: 1767, content: 【, id: KR2a0017_ZHSJ_023-bkkpn444}
@@ -1683,6 +1686,7 @@ markers:
   - {type: 'tls:seg', offset: 2533, content: '', id: KR2a0017_ZHSJ_023-d23p21s4}
   - {type: punctuation, offset: 2535, content: (, id: KR2a0017_ZHSJ_023-bkkpn621}
   - {type: punctuation, offset: 2535, content: （, id: KR2a0017_ZHSJ_023-bkkpn622}
+  - {type: voice, offset: 2535, length: 2, name: note, id: n4}
   - {type: variant, offset: 2536, length: 1, content: 𡊚, WYG: 祖}
   - {type: variant, offset: 2536, length: 1, content: 𡊚, krp: 祖}
   - {type: punctuation, offset: 2537, content: ）, id: KR2a0017_ZHSJ_023-bkkpn623}
@@ -1701,6 +1705,7 @@ markers:
   - {type: punctuation, offset: 2552, content: 、, id: KR2a0017_ZHSJ_023-bkkpn630}
   - {type: punctuation, offset: 2555, content: (, id: KR2a0017_ZHSJ_023-bkkpn631}
   - {type: punctuation, offset: 2555, content: （, id: KR2a0017_ZHSJ_023-bkkpn632}
+  - {type: voice, offset: 2555, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 2556, content: ）, id: KR2a0017_ZHSJ_023-bkkpn633}
   - {type: punctuation, offset: 2556, content: ), id: KR2a0017_ZHSJ_023-bkkpn634}
   - {type: punctuation, offset: 2556, content: 【, id: KR2a0017_ZHSJ_023-bkkpn635}
@@ -1897,6 +1902,7 @@ markers:
   - {type: 'tls:seg', offset: 2853, content: '', id: KR2a0017_ZHSJ_023-d23p22s22}
   - {type: punctuation, offset: 2853, content: (, id: KR2a0017_ZHSJ_023-bkkpn705}
   - {type: punctuation, offset: 2853, content: （, id: KR2a0017_ZHSJ_023-bkkpn706}
+  - {type: voice, offset: 2853, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2855, content: ）, id: KR2a0017_ZHSJ_023-bkkpn707}
   - {type: punctuation, offset: 2855, content: ), id: KR2a0017_ZHSJ_023-bkkpn708}
   - {type: punctuation, offset: 2859, content: ，, id: KR2a0017_ZHSJ_023-bkkpn709}
@@ -2234,6 +2240,7 @@ markers:
   - {type: 'tls:seg', offset: 3413, content: '', id: KR2a0017_ZHSJ_023-d23p26s10}
   - {type: punctuation, offset: 3416, content: (, id: KR2a0017_ZHSJ_023-bkkpn835}
   - {type: punctuation, offset: 3416, content: （, id: KR2a0017_ZHSJ_023-bkkpn836}
+  - {type: voice, offset: 3416, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 3417, content: ）, id: KR2a0017_ZHSJ_023-bkkpn837}
   - {type: punctuation, offset: 3417, content: ), id: KR2a0017_ZHSJ_023-bkkpn838}
   - {type: punctuation, offset: 3417, content: 【, id: KR2a0017_ZHSJ_023-bkkpn839}
@@ -2918,6 +2925,7 @@ markers:
   - {type: punctuation, offset: 4531, content: 、, id: KR2a0017_ZHSJ_023-bkkpn1112}
   - {type: punctuation, offset: 4531, content: (, id: KR2a0017_ZHSJ_023-bkkpn1113}
   - {type: punctuation, offset: 4531, content: （, id: KR2a0017_ZHSJ_023-bkkpn1114}
+  - {type: voice, offset: 4531, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 4532, content: ）, id: KR2a0017_ZHSJ_023-bkkpn1115}
   - {type: punctuation, offset: 4532, content: ), id: KR2a0017_ZHSJ_023-bkkpn1116}
   - {type: line-break, offset: 4535, content: '', id: ZHSJ__dup5182}
@@ -3759,4 +3767,4 @@ markers:
   - {type: page-break, offset: 5878, content: '', id: KR2a0017_WYG_023-19b, image: WYG0259/WYG0259-0269d.png}
   - {type: variant, offset: 5878, length: 0, content: '', krp: 南齊書卷二十三南齊書卷二十三考證褚淵傳帝在藩與淵以風素相善風汲古閣本作夙出為吳興太守臣祖庚按通鑑作呉郡注云吳郡近畿大郡也呉興次郡也淵以大尚書出守當得大郡吳郡為是據此則傳云吳興誤矣新除司徒領驃騎將軍南康公淵諸本同臣承蒼按褚淵新除之官乃司空非司徒也諸本並誤王儉傳遷長史兼侍中監本脱史字從南史增入南齊書卷二十三考證}
   back: []
-hash: sha256:e7f9deb5ad833a05e78a9f341d01d19e5d8c3467948b00753db875885f44cc83
+hash: sha256:f68732d74eac7a9fdf5cca50b25391ad0052fe0bbaaa5a84481dda67e146d9ea

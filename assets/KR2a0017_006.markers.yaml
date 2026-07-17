@@ -1321,6 +1321,7 @@ markers:
   - {type: line-break, offset: 2091, content: '', id: ZHSJ__dup987}
   - {type: punctuation, offset: 2094, content: (, id: KR2a0017_ZHSJ_006-bkkpn449}
   - {type: punctuation, offset: 2094, content: （, id: KR2a0017_ZHSJ_006-bkkpn450}
+  - {type: voice, offset: 2094, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2095, content: ）, id: KR2a0017_ZHSJ_006-bkkpn451}
   - {type: punctuation, offset: 2095, content: ), id: KR2a0017_ZHSJ_006-bkkpn452}
   - {type: punctuation, offset: 2095, content: 【, id: KR2a0017_ZHSJ_006-bkkpn453}
@@ -1484,6 +1485,7 @@ markers:
   - {type: line-break, offset: 2325, content: '', id: ZHSJ__dup995}
   - {type: punctuation, offset: 2331, content: (, id: KR2a0017_ZHSJ_006-bkkpn512}
   - {type: punctuation, offset: 2331, content: （, id: KR2a0017_ZHSJ_006-bkkpn513}
+  - {type: voice, offset: 2331, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2332, content: ）, id: KR2a0017_ZHSJ_006-bkkpn514}
   - {type: punctuation, offset: 2332, content: ), id: KR2a0017_ZHSJ_006-bkkpn515}
   - {type: punctuation, offset: 2332, content: 【, id: KR2a0017_ZHSJ_006-bkkpn516}
@@ -2414,6 +2416,7 @@ markers:
   - {type: variant, offset: 3862, length: 1, content: 壓, krp: 􅐦}
   - {type: punctuation, offset: 3863, content: (, id: KR2a0017_ZHSJ_006-bkkpn830}
   - {type: punctuation, offset: 3863, content: （, id: KR2a0017_ZHSJ_006-bkkpn831}
+  - {type: voice, offset: 3863, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3864, content: ）, id: KR2a0017_ZHSJ_006-bkkpn832}
   - {type: punctuation, offset: 3864, content: ), id: KR2a0017_ZHSJ_006-bkkpn833}
   - {type: punctuation, offset: 3864, content: 【, id: KR2a0017_ZHSJ_006-bkkpn834}
@@ -2474,4 +2477,4 @@ markers:
   - {type: page-break, offset: 3921, content: '', id: KR2a0017_WYG_006-14b, image: WYG0259/WYG0259-0065d.png}
   - {type: variant, offset: 3921, length: 0, content: '', krp: 南齊書卷六南齊書卷六考證眀帝夲紀三年春正月丁酉通鑑考異曰案長厯是月乙丑朔無丁酉下有己巳當作丁夘四年春正月庚午通鑑考異曰案長厯是月己丑朔無庚午通鑑所以不日永泰元年七月以太尉陳顯達為江州刺史臣祖庚按陳顯達傳顯達敗扵馬圈表解職不許求降號又不許乃除江州又云東昏立顯達彌不樂還京師得此授甚喜据此則刺史江州在東昏立後馬圏之敗亦在永元元年情事適合况眀帝末顯達方以三公撃魏不容無故除江州也南齊書卷六考證}
   back: []
-hash: sha256:5dcc56d97cf9fca7cd8a02f22de15bb5773f571232d2e56abc30543451eb67b6
+hash: sha256:81d1c78e6f534f5a0d0043884e65d675e31b0554f6bb1c8f674966433ba35808

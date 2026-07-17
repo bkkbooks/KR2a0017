@@ -2091,6 +2091,7 @@ markers:
   - {type: punctuation, offset: 3503, content: （, id: KR2a0017_ZHSJ_003-bkkpn710}
   - {type: variant, offset: 3503, length: 1, content: 仞, WYG: ''}
   - {type: variant, offset: 3503, length: 1, content: 仞, krp: ''}
+  - {type: voice, offset: 3503, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3504, content: ）, id: KR2a0017_ZHSJ_003-bkkpn711}
   - {type: punctuation, offset: 3504, content: ), id: KR2a0017_ZHSJ_003-bkkpn712}
   - {type: punctuation, offset: 3504, content: 【, id: KR2a0017_ZHSJ_003-bkkpn713}
@@ -2445,6 +2446,7 @@ markers:
   - {type: punctuation, offset: 4120, content: 【, id: KR2a0017_ZHSJ_003-bkkpn830}
   - {type: variant, offset: 4120, length: 1, content: 三, WYG: 二}
   - {type: variant, offset: 4120, length: 1, content: 三, krp: 二}
+  - {type: voice, offset: 4120, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 4121, content: 】, id: KR2a0017_ZHSJ_003-bkkpn831}
   - {type: punctuation, offset: 4124, content: ，, id: KR2a0017_ZHSJ_003-bkkpn832}
   - {type: 'tls:seg', offset: 4124, content: '', id: KR2a0017_ZHSJ_003-d3p51s2}
@@ -2880,6 +2882,7 @@ markers:
   - {type: punctuation, offset: 4786, content: （, id: KR2a0017_ZHSJ_003-bkkpn976}
   - {type: variant, offset: 4786, length: 1, content: 落, WYG: ''}
   - {type: variant, offset: 4786, length: 1, content: 落, krp: ''}
+  - {type: voice, offset: 4786, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4787, content: ）, id: KR2a0017_ZHSJ_003-bkkpn977}
   - {type: punctuation, offset: 4787, content: ), id: KR2a0017_ZHSJ_003-bkkpn978}
   - {type: punctuation, offset: 4787, content: 【, id: KR2a0017_ZHSJ_003-bkkpn979}
@@ -4395,6 +4398,7 @@ markers:
   - {type: punctuation, offset: 7263, content: （, id: KR2a0017_ZHSJ_003-bkkpn1498}
   - {type: variant, offset: 7263, length: 1, content: 本, WYG: ''}
   - {type: variant, offset: 7263, length: 1, content: 本, krp: ''}
+  - {type: voice, offset: 7263, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 7264, content: ）, id: KR2a0017_ZHSJ_003-bkkpn1499}
   - {type: punctuation, offset: 7264, content: ), id: KR2a0017_ZHSJ_003-bkkpn1500}
   - {type: punctuation, offset: 7265, content: ．, id: KR2a0017_ZHSJ_003-bkkpn1501}
@@ -4783,4 +4787,4 @@ markers:
   - {type: page-break, offset: 7849, content: '', id: KR2a0017_WYG_003-27b, image: WYG0259/WYG0259-0050d.png}
   - {type: variant, offset: 7849, length: 0, content: '', krp: 南齊書卷三南齊書卷三考證武帝夲紀生獲肅之斬首百餘級遂率部曲百餘人舉義兵臣祖庚按宋書鄧琬傳云世子與南康相沈用之等據郡起義宋略亦云沈肅之以郡招起義据此則帝與肅之同起義矣與紀互異又按通鑑考異曰賾始自獄中刼出琬所署南康相不容便與之同則宋書誤也三年八月丁巳以行宕昌王梁彌頡為河涼二州刺史臣祖庚按魏書三年七月魏遣使拜宕昌王梁彌機兄子彌承為宕昌王與此互異六年十月初臨太極殿讀時令臣宗萬按漢儀太史每嵗上其年厯先立春立夏大暑立秋立冬常讀五時令皇帝所服各随五時之色帝升御座尚書令以下就席位尚書三公郎以令署按上奏以入就席伏讀訖賜酒一巵据此武帝是舉盖遵古制前此未行故曰初臨也南齊書卷三考證}
   back: []
-hash: sha256:380075635c5fc160ec682108fec6011173ef19a77f092437ea5d50687bf7ee4c
+hash: sha256:a9e0f85a7cb8f591b5d7200abaef2d8ff70b00f57e97004a40e1b25221132d69

@@ -748,6 +748,7 @@ markers:
   - {type: punctuation, offset: 1141, content: （, id: KR2a0017_ZHSJ_002-bkkpn245}
   - {type: variant, offset: 1141, length: 1, content: 辛, WYG: ''}
   - {type: variant, offset: 1141, length: 1, content: 辛, krp: ''}
+  - {type: voice, offset: 1141, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1142, content: ）, id: KR2a0017_ZHSJ_002-bkkpn246}
   - {type: punctuation, offset: 1142, content: ), id: KR2a0017_ZHSJ_002-bkkpn247}
   - {type: punctuation, offset: 1142, content: 【, id: KR2a0017_ZHSJ_002-bkkpn248}
@@ -805,6 +806,7 @@ markers:
   - {type: punctuation, offset: 1224, content: （, id: KR2a0017_ZHSJ_002-bkkpn271}
   - {type: variant, offset: 1224, length: 1, content: 己, WYG: ''}
   - {type: variant, offset: 1224, length: 1, content: 己, krp: ''}
+  - {type: voice, offset: 1224, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1225, content: ）, id: KR2a0017_ZHSJ_002-bkkpn272}
   - {type: punctuation, offset: 1225, content: ), id: KR2a0017_ZHSJ_002-bkkpn273}
   - {type: punctuation, offset: 1225, content: 【, id: KR2a0017_ZHSJ_002-bkkpn274}
@@ -880,6 +882,7 @@ markers:
   - {type: punctuation, offset: 1360, content: （, id: KR2a0017_ZHSJ_002-bkkpn301}
   - {type: variant, offset: 1360, length: 1, content: 宮, WYG: ''}
   - {type: variant, offset: 1360, length: 1, content: 宮, krp: ''}
+  - {type: voice, offset: 1360, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1361, content: ）, id: KR2a0017_ZHSJ_002-bkkpn302}
   - {type: punctuation, offset: 1361, content: ), id: KR2a0017_ZHSJ_002-bkkpn303}
   - {type: punctuation, offset: 1361, content: 【, id: KR2a0017_ZHSJ_002-bkkpn304}
@@ -1473,6 +1476,7 @@ markers:
   - {type: line-break, offset: 2331, content: '', id: ZHSJ__dup427}
   - {type: punctuation, offset: 2332, content: (, id: KR2a0017_ZHSJ_002-bkkpn502}
   - {type: punctuation, offset: 2332, content: （, id: KR2a0017_ZHSJ_002-bkkpn503}
+  - {type: voice, offset: 2332, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2333, content: ）, id: KR2a0017_ZHSJ_002-bkkpn504}
   - {type: punctuation, offset: 2333, content: ), id: KR2a0017_ZHSJ_002-bkkpn505}
   - {type: punctuation, offset: 2334, content: 【, id: KR2a0017_ZHSJ_002-bkkpn506}
@@ -1668,6 +1672,7 @@ markers:
   - {type: punctuation, offset: 2654, content: （, id: KR2a0017_ZHSJ_002-bkkpn565}
   - {type: variant, offset: 2654, length: 1, content: 徐, WYG: ''}
   - {type: variant, offset: 2654, length: 1, content: 徐, krp: ''}
+  - {type: voice, offset: 2654, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 2655, content: ）, id: KR2a0017_ZHSJ_002-bkkpn566}
   - {type: punctuation, offset: 2655, content: ), id: KR2a0017_ZHSJ_002-bkkpn567}
   - {type: punctuation, offset: 2655, content: 【, id: KR2a0017_ZHSJ_002-bkkpn568}
@@ -2364,4 +2369,4 @@ markers:
   - {type: page-break, offset: 3696, content: '', id: KR2a0017_WYG_002-14b, image: WYG0259/WYG0259-0037b.png}
   - {type: variant, offset: 3696, length: 0, content: '', krp: 南齊書卷二南齊書卷二考證髙帝夲紀下建元元年夏四月丙寅追尊皇考曰宣皇帝皇妣為孝皇后臣祖庚按通鑑同南史在甲午二年正月以司空尚書令褚淵為司徒臣祖庚按十二月以司空褚淵為司徒其事複見其月互異又淵傳三年為司徒又固讓四年寢疾遜位改授司空據此則淵以三年為司徒四年為司空而紀又云四年八月癸夘司徒褚淵薨紀傳前後各不相顧二月丁夘虜冦夀陽臣祖庚按通鑑作己酉攷異曰是月辛夘朔無丁夘五月立六都門墻臣宗萬按通鑑云自晉以来建康宫之外城惟設竹籬而有六門會有彂白虎樽者命改立都墻又白虎樽即白獸樽晉書避唐諱故曰獸也河南王世子吐谷渾易度侯易度侯諸夲皆作度易侯今従氐𦍑傳改正南齊書卷二考證}
   back: []
-hash: sha256:fb6b353130ce4a92485ceec5e7d5ee1b7b9d6d734bba42a4f5bcd299489767b4
+hash: sha256:6e928a931baa12c3e27e8748cbcd738025c12a45452cdacf00d5e1f59d3fbf8b

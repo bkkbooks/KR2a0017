@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 9, length: 0, content: '', krp: 第}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup7817}
   - {type: punctuation, offset: 13, content: (, id: KR2a0017_ZHSJ_039-bkkpn1}
+  - {type: voice, offset: 13, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 15, content: ), id: KR2a0017_ZHSJ_039-bkkpn2}
   - {type: indent, offset: 15, content: 　, id: KR2a0017_ZHSJ_039-bkkind2}
   - {type: xml-element, offset: 17, content: '', id: KR2a0017_ZHSJ_039-bkkxmlele2}
@@ -391,6 +392,7 @@ markers:
   - {type: punctuation, offset: 694, content: （, id: KR2a0017_ZHSJ_039-bkkpn150}
   - {type: variant, offset: 694, length: 5, content: 徐令上文長, WYG: ''}
   - {type: variant, offset: 694, length: 5, content: 徐令上文長, krp: ''}
+  - {type: voice, offset: 694, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 699, content: ）, id: KR2a0017_ZHSJ_039-bkkpn151}
   - {type: punctuation, offset: 699, content: ), id: KR2a0017_ZHSJ_039-bkkpn152}
   - {type: punctuation, offset: 699, content: 【, id: KR2a0017_ZHSJ_039-bkkpn153}
@@ -1587,6 +1589,7 @@ markers:
   - {type: punctuation, offset: 2867, content: 【, id: KR2a0017_ZHSJ_039-bkkpn602}
   - {type: variant, offset: 2867, length: 2, content: 且易, WYG: 四}
   - {type: variant, offset: 2867, length: 2, content: 且易, krp: 四}
+  - {type: voice, offset: 2867, length: 0, name: note, id: n3}
   - {type: punctuation, offset: 2869, content: 】, id: KR2a0017_ZHSJ_039-bkkpn603}
   - {type: variant, offset: 2870, length: 0, content: '', WYG: 異傳}
   - {type: variant, offset: 2870, length: 0, content: '', krp: 異傳}
@@ -2314,6 +2317,7 @@ markers:
   - {type: punctuation, offset: 4041, content: （, id: KR2a0017_ZHSJ_039-bkkpn865}
   - {type: variant, offset: 4041, length: 1, content: 昊, WYG: ''}
   - {type: variant, offset: 4041, length: 1, content: 昊, krp: ''}
+  - {type: voice, offset: 4041, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4042, content: ）, id: KR2a0017_ZHSJ_039-bkkpn866}
   - {type: punctuation, offset: 4042, content: ), id: KR2a0017_ZHSJ_039-bkkpn867}
   - {type: punctuation, offset: 4042, content: 【, id: KR2a0017_ZHSJ_039-bkkpn868}
@@ -2368,6 +2372,7 @@ markers:
   - {type: punctuation, offset: 4126, content: （, id: KR2a0017_ZHSJ_039-bkkpn891}
   - {type: variant, offset: 4126, length: 1, content: 成, WYG: ''}
   - {type: variant, offset: 4126, length: 1, content: 成, krp: ''}
+  - {type: voice, offset: 4126, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 4127, content: ）, id: KR2a0017_ZHSJ_039-bkkpn892}
   - {type: punctuation, offset: 4127, content: ), id: KR2a0017_ZHSJ_039-bkkpn893}
   - {type: punctuation, offset: 4127, content: 【, id: KR2a0017_ZHSJ_039-bkkpn894}
@@ -2377,6 +2382,7 @@ markers:
   - {type: punctuation, offset: 4131, content: （, id: KR2a0017_ZHSJ_039-bkkpn898}
   - {type: variant, offset: 4131, length: 1, content: 異, WYG: ''}
   - {type: variant, offset: 4131, length: 1, content: 異, krp: ''}
+  - {type: voice, offset: 4131, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 4132, content: ）, id: KR2a0017_ZHSJ_039-bkkpn899}
   - {type: punctuation, offset: 4132, content: ), id: KR2a0017_ZHSJ_039-bkkpn900}
   - {type: punctuation, offset: 4132, content: 【, id: KR2a0017_ZHSJ_039-bkkpn901}
@@ -2455,6 +2461,7 @@ markers:
   - {type: page-break, offset: 4233, content: '', id: KR2a0017_WYG_039-14b, image: WYG0259/WYG0259-0403b.png}
   - {type: page-break, offset: 4233, content: '', id: KR2a0017_WYG_039-15a, image: WYG0259/WYG0259-0403c.png}
   - {type: variant, offset: 4233, length: 4, content: 徐令上文, krp: 南齊書卷三十九南齊書卷三十九考證陸澄傳易體微逺實貫群籍施孟異聞周韓殊㫖豈可專據小王便為該備依舊存鄭南史無異聞殊㫖二句臣承蒼按陸澄言王弼注易異乎儒學而王儉答之如此自唐孔頴達作正義專取弼書而康成之説遂廢矣史臣賛彦淵書史}
+  - {type: voice, offset: 4233, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 4237, content: 」, id: KR2a0017_ZHSJ_039-bkkpn929}
   - {type: 'tls:seg', offset: 4237, content: '', id: KR2a0017_ZHSJ_039-d39p53s3}
   - {type: punctuation, offset: 4238, content: ．, id: KR2a0017_ZHSJ_039-bkkpn930}
@@ -2467,4 +2474,4 @@ markers:
   - {type: page-break, offset: 4238, content: '', id: KR2a0017_WYG_039-15b, image: WYG0259/WYG0259-0403d.png}
   - {type: variant, offset: 4238, length: 0, content: '', krp: 問窮稽臣承蒼按彦淵當是王摛字齊書無摛傳南史附摛於王諶傳後不載其字有云竟陵王子良校試諸學士唯摛問無不對此云疑問窮稽想必謂摛也南齊書卷三十九考證}
   back: []
-hash: sha256:9a821f7e09e225fe6e3917849a7640fda7a42220f60519aaba569e930f5c49c1
+hash: sha256:d45fcacf1eec72a3c228f681565c07bdf0346b511789a82cc75684b11dd28716

@@ -1483,6 +1483,7 @@ markers:
   - {type: punctuation, offset: 2875, content: （, id: KR2a0017_ZHSJ_051-bkkpn555}
   - {type: variant, offset: 2875, length: 1, content: 虜, WYG: ''}
   - {type: variant, offset: 2875, length: 1, content: 虜, krp: ''}
+  - {type: voice, offset: 2875, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2876, content: ）, id: KR2a0017_ZHSJ_051-bkkpn556}
   - {type: punctuation, offset: 2876, content: ), id: KR2a0017_ZHSJ_051-bkkpn557}
   - {type: punctuation, offset: 2876, content: 【, id: KR2a0017_ZHSJ_051-bkkpn558}
@@ -2180,6 +2181,7 @@ markers:
   - {type: punctuation, offset: 4159, content: （, id: KR2a0017_ZHSJ_051-bkkpn812}
   - {type: variant, offset: 4159, length: 2, content: 何則, WYG: ''}
   - {type: variant, offset: 4159, length: 2, content: 何則, krp: ''}
+  - {type: voice, offset: 4159, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4161, content: ）, id: KR2a0017_ZHSJ_051-bkkpn813}
   - {type: punctuation, offset: 4161, content: ), id: KR2a0017_ZHSJ_051-bkkpn814}
   - {type: punctuation, offset: 4161, content: 【, id: KR2a0017_ZHSJ_051-bkkpn815}
@@ -2311,6 +2313,7 @@ markers:
   - {type: punctuation, offset: 4383, content: （, id: KR2a0017_ZHSJ_051-bkkpn858}
   - {type: variant, offset: 4383, length: 2, content: 諱詳, WYG: 衍}
   - {type: variant, offset: 4383, length: 2, content: 諱詳, krp: 衍}
+  - {type: voice, offset: 4383, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 4384, content: ）, id: KR2a0017_ZHSJ_051-bkkpn859}
   - {type: punctuation, offset: 4384, content: ), id: KR2a0017_ZHSJ_051-bkkpn860}
   - {type: punctuation, offset: 4384, content: 【, id: KR2a0017_ZHSJ_051-bkkpn861}
@@ -3697,4 +3700,4 @@ markers:
   - {type: page-break, offset: 6806, content: '', id: KR2a0017_WYG_051-23b, image: WYG0259/WYG0259-0506b.png}
   - {type: variant, offset: 6806, length: 0, content: '', krp: 南齊書卷五十一南齊書卷五十一考證崔慧景傳四月回軍廣陵臣祖庚按此有月不日東昏紀四月癸酉慧景棄衆走通鑑考異曰按長厯是嵗四月庚午朔癸酉乃四月四日據此則四月四日慧景已棄衆走矣而傳云四月回軍恭祖納之又云十二日恭祖復攻之城陷紀傳前後各不相顧又按紀云夏四月丁未慧景於廣陵襲京師通鑑考異曰是嵗三月辛丑朔丁未三月七日當作三月以此考之則回軍廣陵亦當在三月紀傳作四月誤也司馬崔恭祖守廣陵城開門納之臣承蒼按南史云俄而慧景至恭祖閉門不敢出慧景知其異已泣數行而去與此互異單馬至蠏浦為漁父所斬臣祖庚按南史云慧景單馬至蠏浦投漁人太叔榮之榮之為慧景門人時為蠏浦戍斬慧景首送都與此小異然既云漁人又云為戍未免矛盾南史固未可據也張欣泰傳時年四十六南史作三十六南齊書卷五十一考證}
   back: []
-hash: sha256:651eaaf77637ac752ca20a54494b85ee231062c68751496b2a3b8d67dcb040c0
+hash: sha256:64be6a73da8ee09192a92a13c7602159a39192e6ce04c3e2c1dc552f8a5d4ff6

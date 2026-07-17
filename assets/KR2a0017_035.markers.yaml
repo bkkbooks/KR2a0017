@@ -118,6 +118,7 @@ markers:
   - {type: punctuation, offset: 240, content: 、, id: KR2a0017_ZHSJ_035-bkkpn41}
   - {type: punctuation, offset: 240, content: (, id: KR2a0017_ZHSJ_035-bkkpn42}
   - {type: punctuation, offset: 240, content: （, id: KR2a0017_ZHSJ_035-bkkpn43}
+  - {type: voice, offset: 240, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 241, content: ）, id: KR2a0017_ZHSJ_035-bkkpn44}
   - {type: punctuation, offset: 241, content: ), id: KR2a0017_ZHSJ_035-bkkpn45}
   - {type: punctuation, offset: 243, content: ⿱, id: KR2a0017_ZHSJ_035-bkkpn46}
@@ -157,6 +158,7 @@ markers:
   - {type: 'tls:seg', offset: 290, content: '', id: KR2a0017_ZHSJ_035-d35p3s19}
   - {type: punctuation, offset: 292, content: (, id: KR2a0017_ZHSJ_035-bkkpn61}
   - {type: punctuation, offset: 292, content: （, id: KR2a0017_ZHSJ_035-bkkpn62}
+  - {type: voice, offset: 292, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 293, content: ）, id: KR2a0017_ZHSJ_035-bkkpn63}
   - {type: punctuation, offset: 293, content: ), id: KR2a0017_ZHSJ_035-bkkpn64}
   - {type: punctuation, offset: 294, content: ，, id: KR2a0017_ZHSJ_035-bkkpn65}
@@ -267,6 +269,7 @@ markers:
   - {type: punctuation, offset: 517, content: （, id: KR2a0017_ZHSJ_035-bkkpn111}
   - {type: variant, offset: 517, length: 1, content: 興, WYG: ''}
   - {type: variant, offset: 517, length: 1, content: 興, krp: ''}
+  - {type: voice, offset: 517, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 518, content: ）, id: KR2a0017_ZHSJ_035-bkkpn112}
   - {type: punctuation, offset: 518, content: ), id: KR2a0017_ZHSJ_035-bkkpn113}
   - {type: punctuation, offset: 518, content: 【, id: KR2a0017_ZHSJ_035-bkkpn114}
@@ -573,6 +576,7 @@ markers:
   - {type: punctuation, offset: 1075, content: ), id: KR2a0017_ZHSJ_035-bkkpn244}
   - {type: variant, offset: 1075, length: 0, content: '', WYG: 上}
   - {type: variant, offset: 1075, length: 0, content: '', krp: 上}
+  - {type: voice, offset: 1075, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 1079, content: ，, id: KR2a0017_ZHSJ_035-bkkpn245}
   - {type: punctuation, offset: 1079, content: 〔九〕, id: KR2a0017_ZHSJ_035-bkkpn246}
   - {type: 'tls:seg', offset: 1079, content: '', id: KR2a0017_ZHSJ_035-d35p9s19}
@@ -897,6 +901,7 @@ markers:
   - {type: punctuation, offset: 1585, content: （, id: KR2a0017_ZHSJ_035-bkkpn381}
   - {type: variant, offset: 1585, length: 1, content: 令, WYG: ''}
   - {type: variant, offset: 1585, length: 1, content: 令, krp: ''}
+  - {type: voice, offset: 1585, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 1586, content: ）, id: KR2a0017_ZHSJ_035-bkkpn382}
   - {type: punctuation, offset: 1586, content: ), id: KR2a0017_ZHSJ_035-bkkpn383}
   - {type: punctuation, offset: 1586, content: 【, id: KR2a0017_ZHSJ_035-bkkpn384}
@@ -2342,6 +2347,7 @@ markers:
   - {type: punctuation, offset: 4048, content: （, id: KR2a0017_ZHSJ_035-bkkpn973}
   - {type: variant, offset: 4048, length: 2, content: 推擬, WYG: ''}
   - {type: variant, offset: 4048, length: 2, content: 推擬, krp: ''}
+  - {type: voice, offset: 4048, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 4050, content: ）, id: KR2a0017_ZHSJ_035-bkkpn974}
   - {type: punctuation, offset: 4050, content: ), id: KR2a0017_ZHSJ_035-bkkpn975}
   - {type: punctuation, offset: 4050, content: 【, id: KR2a0017_ZHSJ_035-bkkpn976}
@@ -2461,4 +2467,4 @@ markers:
   - {type: page-break, offset: 4188, content: '', id: KR2a0017_WYG_035-15b, image: WYG0259/WYG0259-0372b.png}
   - {type: variant, offset: 4188, length: 0, content: '', krp: 南齊書卷三十五南齊書卷三十五考證宜都王鏗傳纎毫不犯汲古閣本此句下注云宋本無已上十六字南齊書卷三十五考證}
   back: []
-hash: sha256:d97513d102660cbfc1fc73861e2b2a86c4e22da1c93067511e4a7eef8b4bc83e
+hash: sha256:9a55ad1d3654bccdb552188168322c0d4a9caa6bea8eea1f20a84dca231b1309

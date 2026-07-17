@@ -288,6 +288,7 @@ markers:
   - {type: line-break, offset: 438, content: '', id: ZHSJ__dup7036}
   - {type: punctuation, offset: 439, content: (, id: KR2a0017_ZHSJ_034-bkkpn95}
   - {type: punctuation, offset: 439, content: （, id: KR2a0017_ZHSJ_034-bkkpn96}
+  - {type: voice, offset: 439, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 440, content: ）, id: KR2a0017_ZHSJ_034-bkkpn97}
   - {type: punctuation, offset: 440, content: ), id: KR2a0017_ZHSJ_034-bkkpn98}
   - {type: punctuation, offset: 440, content: 【, id: KR2a0017_ZHSJ_034-bkkpn99}
@@ -643,6 +644,7 @@ markers:
   - {type: punctuation, offset: 1044, content: （, id: KR2a0017_ZHSJ_034-bkkpn225}
   - {type: variant, offset: 1044, length: 1, content: 苦, WYG: ''}
   - {type: variant, offset: 1044, length: 1, content: 苦, krp: ''}
+  - {type: voice, offset: 1044, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1045, content: ）, id: KR2a0017_ZHSJ_034-bkkpn226}
   - {type: punctuation, offset: 1045, content: ), id: KR2a0017_ZHSJ_034-bkkpn227}
   - {type: punctuation, offset: 1045, content: 【, id: KR2a0017_ZHSJ_034-bkkpn228}
@@ -844,6 +846,7 @@ markers:
   - {type: punctuation, offset: 1371, content: （, id: KR2a0017_ZHSJ_034-bkkpn308}
   - {type: variant, offset: 1371, length: 2, content: 官年, WYG: ''}
   - {type: variant, offset: 1371, length: 2, content: 官年, krp: ''}
+  - {type: voice, offset: 1371, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1373, content: ）, id: KR2a0017_ZHSJ_034-bkkpn309}
   - {type: punctuation, offset: 1373, content: ), id: KR2a0017_ZHSJ_034-bkkpn310}
   - {type: punctuation, offset: 1373, content: 【, id: KR2a0017_ZHSJ_034-bkkpn311}
@@ -1139,6 +1142,7 @@ markers:
   - {type: punctuation, offset: 1877, content: （, id: KR2a0017_ZHSJ_034-bkkpn425}
   - {type: variant, offset: 1877, length: 1, content: 治, WYG: ''}
   - {type: variant, offset: 1877, length: 1, content: 治, krp: ''}
+  - {type: voice, offset: 1877, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1878, content: ）, id: KR2a0017_ZHSJ_034-bkkpn426}
   - {type: punctuation, offset: 1878, content: ), id: KR2a0017_ZHSJ_034-bkkpn427}
   - {type: punctuation, offset: 1878, content: 【, id: KR2a0017_ZHSJ_034-bkkpn428}
@@ -1999,6 +2003,7 @@ markers:
   - {type: punctuation, offset: 3320, content: （, id: KR2a0017_ZHSJ_034-bkkpn763}
   - {type: variant, offset: 3320, length: 1, content: 保, WYG: ''}
   - {type: variant, offset: 3320, length: 1, content: 保, krp: ''}
+  - {type: voice, offset: 3320, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 3321, content: ）, id: KR2a0017_ZHSJ_034-bkkpn764}
   - {type: punctuation, offset: 3321, content: ), id: KR2a0017_ZHSJ_034-bkkpn765}
   - {type: punctuation, offset: 3321, content: 【, id: KR2a0017_ZHSJ_034-bkkpn766}
@@ -2722,4 +2727,4 @@ markers:
   - {type: page-break, offset: 4538, content: '', id: KR2a0017_WYG_034-15b, image: WYG0259/WYG0259-0364d.png}
   - {type: variant, offset: 4538, length: 0, content: '', krp: 南齊書卷三十四南齊書卷三十四考證虞玩之傳徳慙李陵諸本同按李陵二字有疑玩之好臧否南監本玩之下有於人物三字庾杲之傳或戲之曰誰謂庾郎貧食鮭常有二十七種按南史此為任昉語王諶傳祖萬慶南史無萬字南齊書卷三十四考證}
   back: []
-hash: sha256:ba5ef10f6a5f4fbf1f9f45251a1422a5137eab49770492f579d640033a23f86a
+hash: sha256:a7d0ec429b3cc9d474f9186adf946d14590a945435ef7e0186b97d8e4a5ba7bc

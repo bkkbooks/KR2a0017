@@ -17,6 +17,7 @@ markers:
   - {type: indent, offset: 13, content: 　, id: KR2a0017_ZHSJ_030-bkkind1}
   - {type: indent, offset: 16, content: 　, id: KR2a0017_ZHSJ_030-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR2a0017_ZHSJ_030-bkkpn1}
+  - {type: voice, offset: 18, length: 2, name: note, id: n1}
   - {type: variant, offset: 19, length: 1, content: 略, WYG: 畧}
   - {type: variant, offset: 19, length: 1, content: 略, krp: 畧}
   - {type: punctuation, offset: 20, content: ), id: KR2a0017_ZHSJ_030-bkkpn2}
@@ -334,6 +335,7 @@ markers:
   - {type: punctuation, offset: 594, content: （, id: KR2a0017_ZHSJ_030-bkkpn120}
   - {type: variant, offset: 594, length: 1, content: 帝, WYG: ''}
   - {type: variant, offset: 594, length: 1, content: 帝, krp: ''}
+  - {type: voice, offset: 594, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 595, content: ）, id: KR2a0017_ZHSJ_030-bkkpn121}
   - {type: punctuation, offset: 595, content: ), id: KR2a0017_ZHSJ_030-bkkpn122}
   - {type: punctuation, offset: 595, content: 【, id: KR2a0017_ZHSJ_030-bkkpn123}
@@ -594,6 +596,7 @@ markers:
   - {type: punctuation, offset: 1023, content: （, id: KR2a0017_ZHSJ_030-bkkpn230}
   - {type: variant, offset: 1023, length: 1, content: 烈, WYG: ''}
   - {type: variant, offset: 1023, length: 1, content: 烈, krp: ''}
+  - {type: voice, offset: 1023, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1024, content: ）, id: KR2a0017_ZHSJ_030-bkkpn231}
   - {type: punctuation, offset: 1024, content: ), id: KR2a0017_ZHSJ_030-bkkpn232}
   - {type: punctuation, offset: 1024, content: 【, id: KR2a0017_ZHSJ_030-bkkpn233}
@@ -658,6 +661,7 @@ markers:
   - {type: punctuation, offset: 1150, content: （元）, id: KR2a0017_ZHSJ_030-bkkpn262}
   - {type: punctuation, offset: 1150, content: ), id: KR2a0017_ZHSJ_030-bkkpn263}
   - {type: punctuation, offset: 1150, content: 【, id: KR2a0017_ZHSJ_030-bkkpn264}
+  - {type: voice, offset: 1150, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 1151, content: 】, id: KR2a0017_ZHSJ_030-bkkpn265}
   - {type: punctuation, offset: 1154, content: ．, id: KR2a0017_ZHSJ_030-bkkpn266}
   - {type: punctuation, offset: 1154, content: 」, id: KR2a0017_ZHSJ_030-bkkpn267}
@@ -1210,6 +1214,7 @@ markers:
   - {type: punctuation, offset: 2147, content: （, id: KR2a0017_ZHSJ_030-bkkpn479}
   - {type: variant, offset: 2147, length: 2, content: 其使, WYG: ''}
   - {type: variant, offset: 2147, length: 2, content: 其使, krp: ''}
+  - {type: voice, offset: 2147, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 2149, content: ）, id: KR2a0017_ZHSJ_030-bkkpn480}
   - {type: punctuation, offset: 2149, content: ), id: KR2a0017_ZHSJ_030-bkkpn481}
   - {type: punctuation, offset: 2149, content: 【, id: KR2a0017_ZHSJ_030-bkkpn482}
@@ -1678,6 +1683,7 @@ markers:
   - {type: punctuation, offset: 3008, content: （, id: KR2a0017_ZHSJ_030-bkkpn675}
   - {type: variant, offset: 3008, length: 1, content: 賤, WYG: ''}
   - {type: variant, offset: 3008, length: 1, content: 賤, krp: ''}
+  - {type: voice, offset: 3008, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 3009, content: ）, id: KR2a0017_ZHSJ_030-bkkpn676}
   - {type: punctuation, offset: 3009, content: ), id: KR2a0017_ZHSJ_030-bkkpn677}
   - {type: line-break, offset: 3009, content: '', id: ZHSJ__dup6563}
@@ -2006,6 +2012,7 @@ markers:
   - {type: punctuation, offset: 3589, content: 【, id: KR2a0017_ZHSJ_030-bkkpn800}
   - {type: variant, offset: 3589, length: 1, content: 七, WYG: 十一}
   - {type: variant, offset: 3589, length: 1, content: 七, krp: 十一}
+  - {type: voice, offset: 3589, length: 0, name: note, id: n7}
   - {type: punctuation, offset: 3590, content: 】, id: KR2a0017_ZHSJ_030-bkkpn801}
   - {type: punctuation, offset: 3591, content: ，, id: KR2a0017_ZHSJ_030-bkkpn802}
   - {type: 'tls:seg', offset: 3591, content: '', id: KR2a0017_ZHSJ_030-d30p31s2}
@@ -2147,6 +2154,7 @@ markers:
   - {type: variant, offset: 3880, length: 2, content: 雍泰, krp: 壅}
   - {type: punctuation, offset: 3881, content: (, id: KR2a0017_ZHSJ_030-bkkpn861}
   - {type: punctuation, offset: 3881, content: （, id: KR2a0017_ZHSJ_030-bkkpn862}
+  - {type: voice, offset: 3881, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 3882, content: ）, id: KR2a0017_ZHSJ_030-bkkpn863}
   - {type: punctuation, offset: 3882, content: ), id: KR2a0017_ZHSJ_030-bkkpn864}
   - {type: punctuation, offset: 3882, content: 【, id: KR2a0017_ZHSJ_030-bkkpn865}
@@ -2310,6 +2318,7 @@ markers:
   - {type: punctuation, offset: 4131, content: （, id: KR2a0017_ZHSJ_030-bkkpn930}
   - {type: variant, offset: 4131, length: 2, content: 乾沒, WYG: ''}
   - {type: variant, offset: 4131, length: 2, content: 乾沒, krp: ''}
+  - {type: voice, offset: 4131, length: 2, name: note, id: n9}
   - {type: punctuation, offset: 4133, content: ）, id: KR2a0017_ZHSJ_030-bkkpn931}
   - {type: punctuation, offset: 4133, content: ), id: KR2a0017_ZHSJ_030-bkkpn932}
   - {type: punctuation, offset: 4133, content: 【, id: KR2a0017_ZHSJ_030-bkkpn933}
@@ -2561,4 +2570,4 @@ markers:
   - {type: page-break, offset: 4557, content: '', id: KR2a0017_WYG_030-16b, image: WYG0259/WYG0259-0337d.png}
   - {type: variant, offset: 4557, length: 0, content: '', krp: 南齊書卷三十南齊書卷三十考證戴僧靜傳僧靜手斬粲臣祖庚按南史袁粲傳僧靜奮刀直前欲斬之子最呌抱父乞先死兵士人人莫不隕涕粲曰我不失忠臣汝不失孝子仍求筆作啓云臣義奉大宋策名兩畢今便歸魂墳隴永就山丘僧靜乃并斬之此不載宋書亦無此事通鑑考異曰時僧靜掩粲不備挺身直往安肻令粲作啓從容如此據此則傳不為漏而南史未可謂得也曹虎傳曹虎南史虎作武乾没孔熾乾没南監本作亂猾南齊書卷三十考證}
   back: []
-hash: sha256:d51fd9c8d3964aeb25cc364c87bb905d09e4414c822d31eb5464ebd417922f28
+hash: sha256:68e2dff306b4b555618e25a23bf173cd917f79f2d132cc4b3f821939a9d623a9

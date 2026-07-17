@@ -212,6 +212,7 @@ markers:
   - {type: punctuation, offset: 307, content: （, id: KR2a0017_ZHSJ_033-bkkpn67}
   - {type: variant, offset: 307, length: 1, content: 官, WYG: ''}
   - {type: variant, offset: 307, length: 1, content: 官, krp: ''}
+  - {type: voice, offset: 307, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 308, content: ）, id: KR2a0017_ZHSJ_033-bkkpn68}
   - {type: punctuation, offset: 308, content: ), id: KR2a0017_ZHSJ_033-bkkpn69}
   - {type: punctuation, offset: 308, content: 【, id: KR2a0017_ZHSJ_033-bkkpn70}
@@ -349,6 +350,7 @@ markers:
   - {type: punctuation, offset: 531, content: （下）, id: KR2a0017_ZHSJ_033-bkkpn122}
   - {type: punctuation, offset: 531, content: ), id: KR2a0017_ZHSJ_033-bkkpn123}
   - {type: punctuation, offset: 531, content: 【, id: KR2a0017_ZHSJ_033-bkkpn124}
+  - {type: voice, offset: 531, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 532, content: 】, id: KR2a0017_ZHSJ_033-bkkpn125}
   - {type: punctuation, offset: 532, content: ，, id: KR2a0017_ZHSJ_033-bkkpn126}
   - {type: punctuation, offset: 532, content: 〔五〕, id: KR2a0017_ZHSJ_033-bkkpn127}
@@ -2246,6 +2248,7 @@ markers:
   - {type: 'tls:seg', offset: 3765, content: '', id: KR2a0017_ZHSJ_033-d33p40s3}
   - {type: punctuation, offset: 3765, content: (, id: KR2a0017_ZHSJ_033-bkkpn848}
   - {type: punctuation, offset: 3765, content: （, id: KR2a0017_ZHSJ_033-bkkpn849}
+  - {type: voice, offset: 3765, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3766, content: ）, id: KR2a0017_ZHSJ_033-bkkpn850}
   - {type: punctuation, offset: 3766, content: ), id: KR2a0017_ZHSJ_033-bkkpn851}
   - {type: variant, offset: 3768, length: 1, content: 關, WYG: 闗}
@@ -2439,6 +2442,7 @@ markers:
   - {type: punctuation, offset: 4056, content: ), id: KR2a0017_ZHSJ_033-bkkpn919}
   - {type: variant, offset: 4056, length: 0, content: '', WYG: 中}
   - {type: variant, offset: 4056, length: 0, content: '', krp: 中}
+  - {type: voice, offset: 4056, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 4059, content: ．, id: KR2a0017_ZHSJ_033-bkkpn920}
   - {type: punctuation, offset: 4059, content: 〔二九〕, id: KR2a0017_ZHSJ_033-bkkpn921}
   - {type: xml-element, offset: 4059, content: '', id: KR2a0017_ZHSJ_033-bkkxmlele90}
@@ -2487,6 +2491,7 @@ markers:
   - {type: 'tls:seg', offset: 4138, content: '', id: KR2a0017_ZHSJ_033-d33p46s15}
   - {type: punctuation, offset: 4140, content: (, id: KR2a0017_ZHSJ_033-bkkpn939}
   - {type: punctuation, offset: 4140, content: （, id: KR2a0017_ZHSJ_033-bkkpn940}
+  - {type: voice, offset: 4140, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 4141, content: ）, id: KR2a0017_ZHSJ_033-bkkpn941}
   - {type: punctuation, offset: 4141, content: ), id: KR2a0017_ZHSJ_033-bkkpn942}
   - {type: punctuation, offset: 4141, content: 【, id: KR2a0017_ZHSJ_033-bkkpn943}
@@ -2901,6 +2906,7 @@ markers:
   - {type: punctuation, offset: 4866, content: （, id: KR2a0017_ZHSJ_033-bkkpn1118}
   - {type: variant, offset: 4866, length: 1, content: 發, WYG: ''}
   - {type: variant, offset: 4866, length: 1, content: 發, krp: ''}
+  - {type: voice, offset: 4866, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 4867, content: ）, id: KR2a0017_ZHSJ_033-bkkpn1119}
   - {type: punctuation, offset: 4867, content: ), id: KR2a0017_ZHSJ_033-bkkpn1120}
   - {type: punctuation, offset: 4867, content: 【, id: KR2a0017_ZHSJ_033-bkkpn1121}
@@ -2972,4 +2978,4 @@ markers:
   - {type: page-break, offset: 4946, content: '', id: KR2a0017_WYG_033-18b, image: WYG0259/WYG0259-0357b.png}
   - {type: variant, offset: 4946, length: 0, content: '', krp: 南齊書卷三十三南齊書卷三十三考證王僧䖍傳僧䖍年數嵗採蠟燭珠為鳳凰南史云僧䖍累十二博棊既不墜落亦不重作僧綽採蠟燭珠為鳳凰與此不同又上羊欣所撰能書人名一卷臣宗萬按欣所撰能書人名史以文繁不載兹附記其畧以便省覽李斯趙髙善大篆程邈善隸書曹喜蔡邕陳道善篆隸王次仲作八分楷法師宜官能為大字方一丈小字方寸千言梁鵠得師宜官法邯鄲淳得次仲法毛𢎞鵠弟子秘書八分左子邑與淳小異杜度始有草名崔瑗善草書瑗子實亦能草書張芝善草書芝弟昶亦能草姜詡梁宣田彦和韋誕皆芝弟子並書草誕最優亦善楷誕子少季亦有能稱羅暉趙礱與伯英同時見稱張超亦善草劉徳升善為行書鍾繇書有三體一曰銘石之書二曰章程書傳秘書三曰行押書繇子㑹能學父書衛覬善草覬子瓘採張芝法以覬法參之更為草藁瓘子恒亦善書索靖芝姊之孫善草書皇象亦能草陳暢善八分楊肇善草隸肇孫經亦善草隸杜畿子恕孫預三世善草書王攸善草行書羊忱羊固並善行書李式善寫隸草弟定子公府能名同式李充母衛夫人善鍾法王逸少之師王廙能章楷謹傳鍾法廙從兄王導善藁行導子恬善隸書恬弟洽衆書通善尤能隸行洽少子岷善隸行廙兄子羲之博精羣法特善書隸羲之第七子獻之善隸藁獻之兄𤣥之徽之兄子淳之並善草行王舒子允之亦善草行王濛能草隸子修善𨽻行王綏善隸行郗愔善章草亦能隸子超亦善草庾亮善草行庾翼善隸行與羲之齊名謝安善隸行許靖民善隸草羲之髙足晉穆帝時有張翼善學人書謝敦康昕並工隸草張𢎞特善飛白南齊書卷三十三考證}
   back: []
-hash: sha256:2604da1ac7ae7828637c53475e00dc6af40bb9cb5d719767487f4a28d219bcca
+hash: sha256:ccf16134d394e45c29620843df36a928c5eb8adea0e2a57387338b0cce96b71d
